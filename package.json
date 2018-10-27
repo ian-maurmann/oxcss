@@ -1,0 +1,20 @@
+{
+  "name": "oxcss",
+  "version": "0.1.0",
+  "description": "An ease-of-use CSS library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-maurmann/oxcss.git"
+  },
+  "keywords": ["oxcss"],
+  "author": "Ian Maurmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ian-maurmann/oxcss/issues"
+  },
+  "homepage": "https://github.com/ian-maurmann/oxcss#readme"
+}
