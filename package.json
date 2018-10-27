@@ -10,11 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/ian-maurmann/oxcss.git"
   },
-  "keywords": ["oxcss"],
+  "keywords": [
+    "oxcss"
+  ],
   "author": "Ian Maurmann",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ian-maurmann/oxcss/issues"
   },
-  "homepage": "https://github.com/ian-maurmann/oxcss#readme"
+  "homepage": "https://github.com/ian-maurmann/oxcss#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
