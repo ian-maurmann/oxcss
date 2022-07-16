@@ -1,0 +1,116 @@
+/*!
+    OXCSS Color
+    Define colors for OXCSS.
+
+    @version 0.0
+    @author Ian Maurmann
+    @license https://opensource.org/licenses/MIT MIT License
+    @copyright Copyright (c) 2022 - Ian Maurmann
+*/
+
+
+/* Color Variables */
+:root {
+    /* Pure */
+    --ox-color-pure-white: #FFFFFF;
+    --ox-color-pure-black: #000000;
+
+    /* sRGB */
+    --ox-color-srbg-red:     #FF0000;
+    --ox-color-srbg-green:   #00FF00;
+    --ox-color-srbg-blue:    #0000FF;
+    --ox-color-srbg-yellow:  #FFFF00;
+    --ox-color-srbg-cyan:    #00FFFF;
+    --ox-color-srbg-magenta: #FF00FF;
+
+    /* Common */
+    --ox-color-common-aquamarine: #7FFFD4;
+    --ox-color-common-blue:       #0000FF;
+    --ox-color-common-cyan:       #00FFFF;
+    --ox-color-common-dark-blue:  #00008B;
+    --ox-color-common-fuchsia:    #FF00FF;
+    --ox-color-common-gray:       #808080;
+    --ox-color-common-green:      #008000;
+    --ox-color-common-light-blue: #ADD8E6;
+    --ox-color-common-lime:       #00FF00;
+    --ox-color-common-maroon:     #800000;
+    --ox-color-common-navy:       #000080;
+    --ox-color-common-olive:      #808000;
+    --ox-color-common-orange:     #FFA500;
+    --ox-color-common-pink:       #FFC0CB;
+    --ox-color-common-purple:     #800080;
+    --ox-color-common-red:        #FF0000;
+    --ox-color-common-silver:     #C0C0C0;
+    --ox-color-common-teal:       #008080;
+    --ox-color-common-yellow:     #FFFF00;
+}
+/* ============================================================================ */
+
+/* FG */
+[data-ox-text-color="transparent"] { color: transparent }
+
+[data-ox-text-color="pure-white"] { color: var(--ox-color-pure-white); }
+[data-ox-text-color="pure-black"] { color: var(--ox-color-pure-black); }
+
+[data-ox-text-color="srgb-red"]     { color: var(--ox-color-srbg-red); }
+[data-ox-text-color="srgb-green"]   { color: var(--ox-color-srbg-green); }
+[data-ox-text-color="srgb-blue"]    { color: var(--ox-color-srbg-blue); }
+[data-ox-text-color="srgb-yellow"]  { color: var(--ox-color-srbg-yellow); }
+[data-ox-text-color="srgb-cyan"]    { color: var(--ox-color-srbg-cyan); }
+[data-ox-text-color="srgb-magenta"] { color: var(--ox-color-srbg-magenta); }
+
+[data-ox-text-color="common-aquamarine"] { color: var(--ox-color-common-aquamarine); }
+[data-ox-text-color="common-blue"]       { color: var(--ox-color-common-blue); }
+[data-ox-text-color="common-cyan"]       { color: var(--ox-color-common-cyan); }
+[data-ox-text-color="common-dark-blue"]  { color: var(--ox-color-common-dark-blue); }
+[data-ox-text-color="common-fuchsia"]    { color: var(--ox-color-common-fuchsia); }
+[data-ox-text-color="common-gray"]       { color: var(--ox-color-common-gray); }
+[data-ox-text-color="common-green"]      { color: var(--ox-color-common-green); }
+[data-ox-text-color="common-light-blue"] { color: var(--ox-color-common-light-blue); }
+[data-ox-text-color="common-lime"]       { color: var(--ox-color-common-lime); }
+[data-ox-text-color="common-maroon"]     { color: var(--ox-color-common-maroon); }
+[data-ox-text-color="common-navy"]       { color: var(--ox-color-common-navy); }
+[data-ox-text-color="common-olive"]      { color: var(--ox-color-common-olive); }
+[data-ox-text-color="common-orange"]     { color: var(--ox-color-common-orange); }
+[data-ox-text-color="common-pink"]       { color: var(--ox-color-common-pink); }
+[data-ox-text-color="common-purple"]     { color: var(--ox-color-common-purple); }
+[data-ox-text-color="common-red"]        { color: var(--ox-color-common-red); }
+[data-ox-text-color="common-silver"]     { color: var(--ox-color-common-silver); }
+[data-ox-text-color="common-teal"]       { color: var(--ox-color-common-teal); }
+[data-ox-text-color="common-yellow"]     { color: var(--ox-color-common-yellow); }
+
+
+/* ============================================================================ */
+
+/* BG */
+[data-ox-bg-color="transparent"] { background-color: transparent; }
+
+[data-ox-bg-color="pure-white"] { background-color: var(--ox-color-pure-white); }
+[data-ox-bg-color="pure-black"] { background-color: var(--ox-color-pure-black); }
+
+[data-ox-bg-color="srgb-red"]     { background-color: var(--ox-color-srbg-red); }
+[data-ox-bg-color="srgb-green"]   { background-color: var(--ox-color-srbg-green); }
+[data-ox-bg-color="srgb-blue"]    { background-color: var(--ox-color-srbg-blue); }
+[data-ox-bg-color="srgb-yellow"]  { background-color: var(--ox-color-srbg-yellow); }
+[data-ox-bg-color="srgb-cyan"]    { background-color: var(--ox-color-srbg-cyan); }
+[data-ox-bg-color="srgb-magenta"] { background-color: var(--ox-color-srbg-magenta); }
+
+[data-ox-bg-color="common-aquamarine"] { background-color: var(--ox-color-common-aquamarine); }
+[data-ox-bg-color="common-blue"]       { background-color: var(--ox-color-common-blue); }
+[data-ox-bg-color="common-cyan"]       { background-color: var(--ox-color-common-cyan); }
+[data-ox-bg-color="common-dark-blue"]  { background-color: var(--ox-color-common-dark-blue); }
+[data-ox-bg-color="common-fuchsia"]    { background-color: var(--ox-color-common-fuchsia); }
+[data-ox-bg-color="common-gray"]       { background-color: var(--ox-color-common-gray); }
+[data-ox-bg-color="common-green"]      { background-color: var(--ox-color-common-green); }
+[data-ox-bg-color="common-light-blue"] { background-color: var(--ox-color-common-light-blue); }
+[data-ox-bg-color="common-lime"]       { background-color: var(--ox-color-common-lime); }
+[data-ox-bg-color="common-maroon"]     { background-color: var(--ox-color-common-maroon); }
+[data-ox-bg-color="common-navy"]       { background-color: var(--ox-color-common-navy); }
+[data-ox-bg-color="common-olive"]      { background-color: var(--ox-color-common-olive); }
+[data-ox-bg-color="common-orange"]     { background-color: var(--ox-color-common-orange); }
+[data-ox-bg-color="common-pink"]       { background-color: var(--ox-color-common-pink); }
+[data-ox-bg-color="common-purple"]     { background-color: var(--ox-color-common-purple); }
+[data-ox-bg-color="common-red"]        { background-color: var(--ox-color-common-red); }
+[data-ox-bg-color="common-silver"]     { background-color: var(--ox-color-common-silver); }
+[data-ox-bg-color="common-teal"]       { background-color: var(--ox-color-common-teal); }
+[data-ox-bg-color="common-yellow"]     { background-color: var(--ox-color-common-yellow); }

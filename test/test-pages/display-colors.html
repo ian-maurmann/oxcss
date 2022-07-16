@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Colors - OXCSS Test Page</title>
+
+    <link rel="stylesheet" href="../../src/ox.css">
+
+    <style>
+
+        /* Body */
+        body[data-namespace="ox-css"][data-feature="test-page"]
+        {
+            background-color: #f3f3f3;
+        }
+
+        /* Color Table */
+        [data-namespace="ox-css"][data-feature="test-page"]
+            [data-item-type="simple-color-table"]
+        {
+            margin: 3ex 2em;
+        }
+        [data-namespace="ox-css"][data-feature="test-page"]
+            [data-item-type="simple-color-table"]
+                td
+        {
+            padding: 1ex 1em;
+        }
+        [data-namespace="ox-css"][data-feature="test-page"]
+            [data-item-type="simple-color-table"]
+                td[colspan="2"]
+        {
+            text-align: center;
+        }
+
+
+    </style>
+</head>
+<body data-namespace="ox-css" data-feature="test-page">
+    <h2>Display Colors:</h2>
+
+    <table data-item-type="simple-color-table">
+        <thead>
+            <tr>
+                <th>FG</th>
+                <th>BG</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr><td colspan="2">Transparent</td></tr>
+            <tr>
+                <td data-ox-text-color="transparent" data-ox-bg-color="transparent"> transparent </td>
+                <td data-ox-text-color="pure-black"  data-ox-bg-color="transparent"> transparent </td>
+            </tr>
+
+            <tr><td colspan="2">Pure</td></tr>
+
+            <tr>
+                <td data-ox-text-color="pure-white" data-ox-bg-color="transparent">pure-white</td>
+                <td data-ox-text-color="pure-black" data-ox-bg-color="pure-white">pure-white</td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="pure-black" data-ox-bg-color="transparent">pure-black</td>
+                <td data-ox-text-color="pure-white" data-ox-bg-color="pure-black">pure-black</td>
+            </tr>
+
+            <tr><td colspan="2">sRGB</td></tr>
+
+            <tr>
+                <td data-ox-text-color="srgb-red" data-ox-bg-color="transparent"  > srgb-red </td>
+                <td data-ox-bg-color="srgb-red"   data-ox-text-color="pure-white" > srgb-red </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="srgb-green" data-ox-bg-color="transparent"  > srgb-green </td>
+                <td data-ox-bg-color="srgb-green"   data-ox-text-color="pure-black" > srgb-green </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="srgb-blue" data-ox-bg-color="transparent"  > srgb-blue </td>
+                <td data-ox-bg-color="srgb-blue"   data-ox-text-color="pure-white" > srgb-blue </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="srgb-yellow" data-ox-bg-color="transparent"  > srgb-yellow </td>
+                <td data-ox-bg-color="srgb-yellow"   data-ox-text-color="pure-black" > srgb-yellow </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="srgb-cyan" data-ox-bg-color="transparent"  > srgb-cyan </td>
+                <td data-ox-bg-color="srgb-cyan"   data-ox-text-color="pure-black" > srgb-cyan </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="srgb-magenta" data-ox-bg-color="transparent"  > srgb-magenta </td>
+                <td data-ox-bg-color="srgb-magenta"   data-ox-text-color="pure-white" > srgb-magenta </td>
+            </tr>
+
+            <tr><td colspan="2">Common</td></tr>
+
+            <tr>
+                <td data-ox-text-color="common-aquamarine" data-ox-bg-color="transparent"  > common-aquamarine </td>
+                <td data-ox-bg-color="common-aquamarine"   data-ox-text-color="pure-blck" > common-aquamarine </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-blue" data-ox-bg-color="transparent"  > common-blue </td>
+                <td data-ox-bg-color="common-blue"   data-ox-text-color="pure-white" > common-blue </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-cyan" data-ox-bg-color="transparent"  > common-cyan </td>
+                <td data-ox-bg-color="common-cyan"   data-ox-text-color="pure-black" > common-cyan </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-dark-blue" data-ox-bg-color="transparent"  > common-dark-blue </td>
+                <td data-ox-bg-color="common-dark-blue"   data-ox-text-color="pure-white" > common-dark-blue </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-fuchsia" data-ox-bg-color="transparent"  > common-fuchsia </td>
+                <td data-ox-bg-color="common-fuchsia"   data-ox-text-color="pure-white" > common-fuchsia </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="common-gray" data-ox-bg-color="transparent"  > common-gray </td>
+                <td data-ox-bg-color="common-gray"   data-ox-text-color="pure-white" > common-gray </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-green" data-ox-bg-color="transparent"  > common-green </td>
+                <td data-ox-bg-color="common-green"   data-ox-text-color="pure-white" > common-green </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-light-blue" data-ox-bg-color="transparent"  > common-light-blue </td>
+                <td data-ox-bg-color="common-light-blue"   data-ox-text-color="pure-black" > common-light-blue </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-lime" data-ox-bg-color="transparent"  > common-lime </td>
+                <td data-ox-bg-color="common-lime"   data-ox-text-color="pure-black" > common-lime </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-maroon" data-ox-bg-color="transparent"  > common-maroon </td>
+                <td data-ox-bg-color="common-maroon"   data-ox-text-color="pure-white" > common-maroon </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="common-navy" data-ox-bg-color="transparent"  > common-navy </td>
+                <td data-ox-bg-color="common-navy"   data-ox-text-color="pure-white" > common-navy </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-olive" data-ox-bg-color="transparent"  > common-olive </td>
+                <td data-ox-bg-color="common-olive"   data-ox-text-color="pure-white" > common-olive </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-orange" data-ox-bg-color="transparent"  > common-orange </td>
+                <td data-ox-bg-color="common-orange"   data-ox-text-color="pure-white" > common-orange </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-pink" data-ox-bg-color="transparent"  > common-pink </td>
+                <td data-ox-bg-color="common-pink"   data-ox-text-color="pure-black" > common-pink </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-purple" data-ox-bg-color="transparent"  > common-purple </td>
+                <td data-ox-bg-color="common-purple"   data-ox-text-color="pure-white" > common-purple </td>
+            </tr>
+
+            <tr>
+                <td data-ox-text-color="common-red" data-ox-bg-color="transparent"  > common-red </td>
+                <td data-ox-bg-color="common-red"   data-ox-text-color="pure-white" > common-red </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-silver" data-ox-bg-color="transparent"  > common-silver </td>
+                <td data-ox-bg-color="common-silver"   data-ox-text-color="pure-black" > common-silver </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-teal" data-ox-bg-color="transparent"  > common-teal </td>
+                <td data-ox-bg-color="common-teal"   data-ox-text-color="pure-white" > common-teal </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="common-yellow" data-ox-bg-color="transparent"  > common-yellow </td>
+                <td data-ox-bg-color="common-yellow"   data-ox-text-color="pure-black" > common-yellow </td>
+            </tr>
+
+
+        </tbody>
+    </table>
+</body>
+</html>
