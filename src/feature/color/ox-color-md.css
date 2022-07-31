@@ -1,0 +1,80 @@
+/*!
+    OXCSS Color MD
+    Define colors for OXCSS from the Material Design color set.
+
+    Colors from Material Design
+    https://material.io/design
+
+    OXCSS
+    @version 0.0
+    @author Ian Maurmann
+    @license https://opensource.org/licenses/MIT MIT License
+    @copyright Copyright (c) 2022 - Ian Maurmann
+*/
+
+
+/* Color Variables */
+:root {
+
+    /* Material Design - Red */
+    --ox-color-md-red:      #F44336;
+    --ox-color-md-red-50:   #FFEBEE;
+    --ox-color-md-red-100:  #FFCDD2;
+    --ox-color-md-red-200:  #EF9A9A;
+    --ox-color-md-red-300:  #E57373;
+    --ox-color-md-red-400:  #EF5350;
+    --ox-color-md-red-500:  #F44336;
+    --ox-color-md-red-600:  #E53935;
+    --ox-color-md-red-700:  #D32F2F;
+    --ox-color-md-red-800:  #C62828;
+    --ox-color-md-red-900:  #B71C1C;
+    --ox-color-md-red-A100: #FF8A80;
+    --ox-color-md-red-A200: #FF5252;
+    --ox-color-md-red-A400: #FF1744;
+    --ox-color-md-red-A700: #D50000;
+
+}
+/* ============================================================================ */
+
+/* FG */
+
+
+/* Material Design - Red */
+[data-ox-text-color="md-red"]      { color: var(--ox-color-md-red); }
+[data-ox-text-color="md-red-50"]   { color: var(--ox-color-md-red-50); }
+[data-ox-text-color="md-red-100"]  { color: var(--ox-color-md-red-100); }
+[data-ox-text-color="md-red-200"]  { color: var(--ox-color-md-red-200); }
+[data-ox-text-color="md-red-300"]  { color: var(--ox-color-md-red-300); }
+[data-ox-text-color="md-red-400"]  { color: var(--ox-color-md-red-400); }
+[data-ox-text-color="md-red-500"]  { color: var(--ox-color-md-red-500); }
+[data-ox-text-color="md-red-600"]  { color: var(--ox-color-md-red-600); }
+[data-ox-text-color="md-red-700"]  { color: var(--ox-color-md-red-700); }
+[data-ox-text-color="md-red-800"]  { color: var(--ox-color-md-red-800); }
+[data-ox-text-color="md-red-900"]  { color: var(--ox-color-md-red-900); }
+[data-ox-text-color="md-red-A100"] { color: var(--ox-color-md-red-A100); }
+[data-ox-text-color="md-red-A200"] { color: var(--ox-color-md-red-A200); }
+[data-ox-text-color="md-red-A400"] { color: var(--ox-color-md-red-A400); }
+[data-ox-text-color="md-red-A700"] { color: var(--ox-color-md-red-A700); }
+
+
+
+/* ============================================================================ */
+
+/* BG */
+
+/* Material Design - Red */
+[data-ox-bg-color="md-red"]      { background-color: var(--ox-color-md-red); }
+[data-ox-bg-color="md-red-50"]   { background-color: var(--ox-color-md-red-50); }
+[data-ox-bg-color="md-red-100"]  { background-color: var(--ox-color-md-red-100); }
+[data-ox-bg-color="md-red-200"]  { background-color: var(--ox-color-md-red-200); }
+[data-ox-bg-color="md-red-300"]  { background-color: var(--ox-color-md-red-300); }
+[data-ox-bg-color="md-red-400"]  { background-color: var(--ox-color-md-red-400); }
+[data-ox-bg-color="md-red-500"]  { background-color: var(--ox-color-md-red-500); }
+[data-ox-bg-color="md-red-600"]  { background-color: var(--ox-color-md-red-600); }
+[data-ox-bg-color="md-red-700"]  { background-color: var(--ox-color-md-red-700); }
+[data-ox-bg-color="md-red-800"]  { background-color: var(--ox-color-md-red-800); }
+[data-ox-bg-color="md-red-900"]  { background-color: var(--ox-color-md-red-900); }
+[data-ox-bg-color="md-red-A100"] { background-color: var(--ox-color-md-red-A100); }
+[data-ox-bg-color="md-red-A200"] { background-color: var(--ox-color-md-red-A200); }
+[data-ox-bg-color="md-red-A400"] { background-color: var(--ox-color-md-red-A400); }
+[data-ox-bg-color="md-red-A700"] { background-color: var(--ox-color-md-red-A700); }
