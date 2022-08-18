@@ -12,8 +12,8 @@ myapp_page.construct = function(){
 // Add Events
 myapp_page.addEvents = function(){
     self = myapp_page;
-
-    Ox.EventListener.deligateEvent('myapp', 'click', 'myapp.test-page', 'clickme', self.handle_clickme);
+    
+    Ox.EventListener.delegateEvent('myapp', 'click', 'myapp.test-page', 'clickme', self.handle_clickme);
 };
 
 // Handle clickme
