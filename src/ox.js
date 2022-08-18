@@ -1,3 +1,4 @@
-if( typeof ox === 'undefined' || ox === null || ox === false){
-    var ox = {};
+// Check if Ox object exists
+if( typeof Ox === 'undefined' || Ox === null || Ox === false){
+    var Ox = {};
 }
