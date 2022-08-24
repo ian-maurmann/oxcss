@@ -8,22 +8,8 @@ if( typeof Ox.EventListener === 'undefined' || Ox.EventListener === null || Ox.E
     Ox.EventListener = {};
 }
 
-Ox.EventListener.delegateEvent = function(application_name, event_type_name, section_name, activity_name, handler){
-    let delegatable     = {};
-    let attribute_name  = 'data-' + String(application_name) + '-' + String(event_type_name) + '-event';
-    let attribute_value = String(section_name) + ' >>> ' + String(activity_name);
-    let selector        = '[' + String(attribute_name) + '="' + String(attribute_value) + '"]';
 
-    delegatable[event_type_name] = function(event){
-        var element = $(event.target);
-        handler(element, event);
-    };
-
-    // Deligate event
-    $(document).on(delegatable, selector );
-}
-
-
+// Delegate Event
 Ox.EventListener.delegate = function(selector, event_type_name, handler){
     // Start delegatable as an empty object
     let delegatable = {};
