@@ -13,8 +13,7 @@ myapp_page.construct = function(){
 myapp_page.addEvents = function(){
     self = myapp_page;
 
-    Ox.EventListener.delegateEvent('myapp', 'click', 'myapp.test-page', 'clickme', self.handle_clickme);
-    Ox.EventListener.delegate('[data-myapp-click-event="myapp.test-page >>> clickme-too"]', 'click', self.handle_clickme_too);
+    Ox.EventListener.delegate('[data-myapp-click-event="myapp.test-page >>> clickme"]', 'click', self.handle_clickme);
 };
 
 // Handle clickme
@@ -24,12 +23,6 @@ myapp_page.handle_clickme = function(element, event){
     alert('Click me!');
 };
 
-// Handle clickme-too
-myapp_page.handle_clickme_too = function(element, event){
-    self = myapp_page;
-
-    alert('Click me too!');
-};
 
 // Realize
 $(document).ready(function() {
