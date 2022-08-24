@@ -221,6 +221,23 @@
     --ox-color-md-lime-A400: #C6FF00;
     --ox-color-md-lime-A700: #AEEA00;
 
+    /* Material Design - Yellow */
+    --ox-color-md-yellow:      #FFEB3B;
+    --ox-color-md-yellow-50:   #FFFDE7;
+    --ox-color-md-yellow-100:  #FFF9C4;
+    --ox-color-md-yellow-200:  #FFF59D;
+    --ox-color-md-yellow-300:  #FFF176;
+    --ox-color-md-yellow-400:  #FFEE58;
+    --ox-color-md-yellow-500:  #FFEB3B;
+    --ox-color-md-yellow-600:  #FDD835;
+    --ox-color-md-yellow-700:  #FBC02D;
+    --ox-color-md-yellow-800:  #F9A825;
+    --ox-color-md-yellow-900:  #F57F17;
+    --ox-color-md-yellow-A100: #FFFF8D;
+    --ox-color-md-yellow-A200: #FFFF00;
+    --ox-color-md-yellow-A400: #FFEA00;
+    --ox-color-md-yellow-A700: #FFD600;
+
 
 
 }
@@ -437,6 +454,25 @@
 [data-ox-text-color="md-lime-A200"] { color: var(--ox-color-md-lime-A200); }
 [data-ox-text-color="md-lime-A400"] { color: var(--ox-color-md-lime-A400); }
 [data-ox-text-color="md-lime-A700"] { color: var(--ox-color-md-lime-A700); }
+
+
+
+/* md yellow */
+[data-ox-text-color="md-yellow"]      { color: var(--ox-color-md-yellow); }
+[data-ox-text-color="md-yellow-50"]   { color: var(--ox-color-md-yellow-50); }
+[data-ox-text-color="md-yellow-100"]  { color: var(--ox-color-md-yellow-100); }
+[data-ox-text-color="md-yellow-200"]  { color: var(--ox-color-md-yellow-200); }
+[data-ox-text-color="md-yellow-300"]  { color: var(--ox-color-md-yellow-300); }
+[data-ox-text-color="md-yellow-400"]  { color: var(--ox-color-md-yellow-400); }
+[data-ox-text-color="md-yellow-500"]  { color: var(--ox-color-md-yellow-500); }
+[data-ox-text-color="md-yellow-600"]  { color: var(--ox-color-md-yellow-600); }
+[data-ox-text-color="md-yellow-700"]  { color: var(--ox-color-md-yellow-700); }
+[data-ox-text-color="md-yellow-800"]  { color: var(--ox-color-md-yellow-800); }
+[data-ox-text-color="md-yellow-900"]  { color: var(--ox-color-md-yellow-900); }
+[data-ox-text-color="md-yellow-A100"] { color: var(--ox-color-md-yellow-A100); }
+[data-ox-text-color="md-yellow-A200"] { color: var(--ox-color-md-yellow-A200); }
+[data-ox-text-color="md-yellow-A400"] { color: var(--ox-color-md-yellow-A400); }
+[data-ox-text-color="md-yellow-A700"] { color: var(--ox-color-md-yellow-A700); }
 
 
 
@@ -660,6 +696,24 @@
 [data-ox-bg-color="md-lime-A400"] { background-color: var(--ox-color-md-lime-A400); }
 [data-ox-bg-color="md-lime-A700"] { background-color: var(--ox-color-md-lime-A700); }
 
+
+
+/* md yellow */
+[data-ox-bg-color="md-yellow"]      { background-color: var(--ox-color-md-yellow); }
+[data-ox-bg-color="md-yellow-50"]   { background-color: var(--ox-color-md-yellow-50); }
+[data-ox-bg-color="md-yellow-100"]  { background-color: var(--ox-color-md-yellow-100); }
+[data-ox-bg-color="md-yellow-200"]  { background-color: var(--ox-color-md-yellow-200); }
+[data-ox-bg-color="md-yellow-300"]  { background-color: var(--ox-color-md-yellow-300); }
+[data-ox-bg-color="md-yellow-400"]  { background-color: var(--ox-color-md-yellow-400); }
+[data-ox-bg-color="md-yellow-500"]  { background-color: var(--ox-color-md-yellow-500); }
+[data-ox-bg-color="md-yellow-600"]  { background-color: var(--ox-color-md-yellow-600); }
+[data-ox-bg-color="md-yellow-700"]  { background-color: var(--ox-color-md-yellow-700); }
+[data-ox-bg-color="md-yellow-800"]  { background-color: var(--ox-color-md-yellow-800); }
+[data-ox-bg-color="md-yellow-900"]  { background-color: var(--ox-color-md-yellow-900); }
+[data-ox-bg-color="md-yellow-A100"] { background-color: var(--ox-color-md-yellow-A100); }
+[data-ox-bg-color="md-yellow-A200"] { background-color: var(--ox-color-md-yellow-A200); }
+[data-ox-bg-color="md-yellow-A400"] { background-color: var(--ox-color-md-yellow-A400); }
+[data-ox-bg-color="md-yellow-A700"] { background-color: var(--ox-color-md-yellow-A700); }
 
 
 
