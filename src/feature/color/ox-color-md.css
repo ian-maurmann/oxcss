@@ -272,6 +272,23 @@
     --ox-color-md-orange-A400: #FF9100;
     --ox-color-md-orange-A700: #FF6D00;
 
+    /* Material Design - Deep Orange */
+    --ox-color-md-deep-orange:      #FF5722;
+    --ox-color-md-deep-orange-50:   #FBE9E7;
+    --ox-color-md-deep-orange-100:  #FFCCBC;
+    --ox-color-md-deep-orange-200:  #FFAB91;
+    --ox-color-md-deep-orange-300:  #FF8A65;
+    --ox-color-md-deep-orange-400:  #FF7043;
+    --ox-color-md-deep-orange-500:  #FF5722;
+    --ox-color-md-deep-orange-600:  #F4511E;
+    --ox-color-md-deep-orange-700:  #E64A19;
+    --ox-color-md-deep-orange-800:  #D84315;
+    --ox-color-md-deep-orange-900:  #BF360C;
+    --ox-color-md-deep-orange-A100: #FF9E80;
+    --ox-color-md-deep-orange-A200: #FF6E40;
+    --ox-color-md-deep-orange-A400: #FF3D00;
+    --ox-color-md-deep-orange-A700: #DD2C00;
+
 
 }
 /* ============================================================================ */
@@ -540,6 +557,23 @@
 [data-ox-text-color="md-orange-A200"] { color: var(--ox-color-md-orange-A200); }
 [data-ox-text-color="md-orange-A400"] { color: var(--ox-color-md-orange-A400); }
 [data-ox-text-color="md-orange-A700"] { color: var(--ox-color-md-orange-A700); }
+
+/* md deep-orange */
+[data-ox-text-color="md-deep-orange"]      { color: var(--ox-color-md-deep-orange); }
+[data-ox-text-color="md-deep-orange-50"]   { color: var(--ox-color-md-deep-orange-50); }
+[data-ox-text-color="md-deep-orange-100"]  { color: var(--ox-color-md-deep-orange-100); }
+[data-ox-text-color="md-deep-orange-200"]  { color: var(--ox-color-md-deep-orange-200); }
+[data-ox-text-color="md-deep-orange-300"]  { color: var(--ox-color-md-deep-orange-300); }
+[data-ox-text-color="md-deep-orange-400"]  { color: var(--ox-color-md-deep-orange-400); }
+[data-ox-text-color="md-deep-orange-500"]  { color: var(--ox-color-md-deep-orange-500); }
+[data-ox-text-color="md-deep-orange-600"]  { color: var(--ox-color-md-deep-orange-600); }
+[data-ox-text-color="md-deep-orange-700"]  { color: var(--ox-color-md-deep-orange-700); }
+[data-ox-text-color="md-deep-orange-800"]  { color: var(--ox-color-md-deep-orange-800); }
+[data-ox-text-color="md-deep-orange-900"]  { color: var(--ox-color-md-deep-orange-900); }
+[data-ox-text-color="md-deep-orange-A100"] { color: var(--ox-color-md-deep-orange-A100); }
+[data-ox-text-color="md-deep-orange-A200"] { color: var(--ox-color-md-deep-orange-A200); }
+[data-ox-text-color="md-deep-orange-A400"] { color: var(--ox-color-md-deep-orange-A400); }
+[data-ox-text-color="md-deep-orange-A700"] { color: var(--ox-color-md-deep-orange-A700); }
 
 /* ============================================================================ */
 
@@ -812,6 +846,23 @@
 [data-ox-bg-color="md-orange-A200"] { background-color: var(--ox-color-md-orange-A200); }
 [data-ox-bg-color="md-orange-A400"] { background-color: var(--ox-color-md-orange-A400); }
 [data-ox-bg-color="md-orange-A700"] { background-color: var(--ox-color-md-orange-A700); }
+
+/* md deep-orange */
+[data-ox-bg-color="md-deep-orange"]      { background-color: var(--ox-color-md-deep-orange); }
+[data-ox-bg-color="md-deep-orange-50"]   { background-color: var(--ox-color-md-deep-orange-50); }
+[data-ox-bg-color="md-deep-orange-100"]  { background-color: var(--ox-color-md-deep-orange-100); }
+[data-ox-bg-color="md-deep-orange-200"]  { background-color: var(--ox-color-md-deep-orange-200); }
+[data-ox-bg-color="md-deep-orange-300"]  { background-color: var(--ox-color-md-deep-orange-300); }
+[data-ox-bg-color="md-deep-orange-400"]  { background-color: var(--ox-color-md-deep-orange-400); }
+[data-ox-bg-color="md-deep-orange-500"]  { background-color: var(--ox-color-md-deep-orange-500); }
+[data-ox-bg-color="md-deep-orange-600"]  { background-color: var(--ox-color-md-deep-orange-600); }
+[data-ox-bg-color="md-deep-orange-700"]  { background-color: var(--ox-color-md-deep-orange-700); }
+[data-ox-bg-color="md-deep-orange-800"]  { background-color: var(--ox-color-md-deep-orange-800); }
+[data-ox-bg-color="md-deep-orange-900"]  { background-color: var(--ox-color-md-deep-orange-900); }
+[data-ox-bg-color="md-deep-orange-A100"] { background-color: var(--ox-color-md-deep-orange-A100); }
+[data-ox-bg-color="md-deep-orange-A200"] { background-color: var(--ox-color-md-deep-orange-A200); }
+[data-ox-bg-color="md-deep-orange-A400"] { background-color: var(--ox-color-md-deep-orange-A400); }
+[data-ox-bg-color="md-deep-orange-A700"] { background-color: var(--ox-color-md-deep-orange-A700); }
 
 
 /* ============================================================================ */
