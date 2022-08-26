@@ -255,6 +255,23 @@
     --ox-color-md-amber-A400: #FFC400;
     --ox-color-md-amber-A700: #FFAB00;
 
+    /* Material Design - Orange */
+    --ox-color-md-orange:      #FF9800;
+    --ox-color-md-orange-50:   #FFF3E0;
+    --ox-color-md-orange-100:  #FFE0B2;
+    --ox-color-md-orange-200:  #FFCC80;
+    --ox-color-md-orange-300:  #FFB74D;
+    --ox-color-md-orange-400:  #FFA726;
+    --ox-color-md-orange-500:  #FF9800;
+    --ox-color-md-orange-600:  #FB8C00;
+    --ox-color-md-orange-700:  #F57C00;
+    --ox-color-md-orange-800:  #EF6C00;
+    --ox-color-md-orange-900:  #E65100;
+    --ox-color-md-orange-A100: #FFD180;
+    --ox-color-md-orange-A200: #FFAB40;
+    --ox-color-md-orange-A400: #FF9100;
+    --ox-color-md-orange-A700: #FF6D00;
+
 
 }
 /* ============================================================================ */
@@ -507,6 +524,22 @@
 [data-ox-text-color="md-amber-A400"] { color: var(--ox-color-md-amber-A400); }
 [data-ox-text-color="md-amber-A700"] { color: var(--ox-color-md-amber-A700); }
 
+/* md orange */
+[data-ox-text-color="md-orange"]      { color: var(--ox-color-md-orange); }
+[data-ox-text-color="md-orange-50"]   { color: var(--ox-color-md-orange-50); }
+[data-ox-text-color="md-orange-100"]  { color: var(--ox-color-md-orange-100); }
+[data-ox-text-color="md-orange-200"]  { color: var(--ox-color-md-orange-200); }
+[data-ox-text-color="md-orange-300"]  { color: var(--ox-color-md-orange-300); }
+[data-ox-text-color="md-orange-400"]  { color: var(--ox-color-md-orange-400); }
+[data-ox-text-color="md-orange-500"]  { color: var(--ox-color-md-orange-500); }
+[data-ox-text-color="md-orange-600"]  { color: var(--ox-color-md-orange-600); }
+[data-ox-text-color="md-orange-700"]  { color: var(--ox-color-md-orange-700); }
+[data-ox-text-color="md-orange-800"]  { color: var(--ox-color-md-orange-800); }
+[data-ox-text-color="md-orange-900"]  { color: var(--ox-color-md-orange-900); }
+[data-ox-text-color="md-orange-A100"] { color: var(--ox-color-md-orange-A100); }
+[data-ox-text-color="md-orange-A200"] { color: var(--ox-color-md-orange-A200); }
+[data-ox-text-color="md-orange-A400"] { color: var(--ox-color-md-orange-A400); }
+[data-ox-text-color="md-orange-A700"] { color: var(--ox-color-md-orange-A700); }
 
 /* ============================================================================ */
 
@@ -763,6 +796,22 @@
 [data-ox-bg-color="md-amber-A400"] { background-color: var(--ox-color-md-amber-A400); }
 [data-ox-bg-color="md-amber-A700"] { background-color: var(--ox-color-md-amber-A700); }
 
+/* md orange */
+[data-ox-bg-color="md-orange"]      { background-color: var(--ox-color-md-orange); }
+[data-ox-bg-color="md-orange-50"]   { background-color: var(--ox-color-md-orange-50); }
+[data-ox-bg-color="md-orange-100"]  { background-color: var(--ox-color-md-orange-100); }
+[data-ox-bg-color="md-orange-200"]  { background-color: var(--ox-color-md-orange-200); }
+[data-ox-bg-color="md-orange-300"]  { background-color: var(--ox-color-md-orange-300); }
+[data-ox-bg-color="md-orange-400"]  { background-color: var(--ox-color-md-orange-400); }
+[data-ox-bg-color="md-orange-500"]  { background-color: var(--ox-color-md-orange-500); }
+[data-ox-bg-color="md-orange-600"]  { background-color: var(--ox-color-md-orange-600); }
+[data-ox-bg-color="md-orange-700"]  { background-color: var(--ox-color-md-orange-700); }
+[data-ox-bg-color="md-orange-800"]  { background-color: var(--ox-color-md-orange-800); }
+[data-ox-bg-color="md-orange-900"]  { background-color: var(--ox-color-md-orange-900); }
+[data-ox-bg-color="md-orange-A100"] { background-color: var(--ox-color-md-orange-A100); }
+[data-ox-bg-color="md-orange-A200"] { background-color: var(--ox-color-md-orange-A200); }
+[data-ox-bg-color="md-orange-A400"] { background-color: var(--ox-color-md-orange-A400); }
+[data-ox-bg-color="md-orange-A700"] { background-color: var(--ox-color-md-orange-A700); }
 
 
 /* ============================================================================ */
