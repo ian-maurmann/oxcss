@@ -29,6 +29,6 @@ Using color value from list of available colors.
 
 i.e. for Material Design Yellow:
 
-![Material Design Yellow](https://github.com/ian-maurmann/oxcss/blob/master/doc/images/example-md-yellow.png?raw=true)
+![Material Design Yellow](https://github.com/ian-maurmann/oxcss/blob/master/doc/images/example-md-yellow-528p.png?raw=true)
 
 
