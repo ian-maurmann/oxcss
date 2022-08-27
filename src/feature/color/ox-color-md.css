@@ -328,6 +328,12 @@
     --ox-color-md-blue-gray-800:  #37474F;
     --ox-color-md-blue-gray-900:  #263238;
 
+    /* Material Design - Black */
+    --ox-color-md-black: #000000;
+
+    /* Material Design - White */
+    --ox-color-md-white: #FFFFFF;
+
 
 }
 /* ============================================================================ */
@@ -653,6 +659,12 @@
 [data-ox-text-color="md-blue-gray-700"]  { color: var(--ox-color-md-blue-gray-700); }
 [data-ox-text-color="md-blue-gray-800"]  { color: var(--ox-color-md-blue-gray-800); }
 [data-ox-text-color="md-blue-gray-900"]  { color: var(--ox-color-md-blue-gray-900); }
+
+/* md black */
+[data-ox-text-color="md-black"]      { color: var(--ox-color-md-black); }
+
+/* md white */
+[data-ox-text-color="md-white"]      { color: var(--ox-color-md-white); }
 
 /* ============================================================================ */
 
@@ -983,6 +995,11 @@
 [data-ox-bg-color="md-blue-gray-800"]  { background-color: var(--ox-color-md-blue-gray-800); }
 [data-ox-bg-color="md-blue-gray-900"]  { background-color: var(--ox-color-md-blue-gray-900); }
 
+/* md black */
+[data-ox-bg-color="md-black"]      { background-color: var(--ox-color-md-black); }
+
+/* md white */
+[data-ox-bg-color="md-white"]      { background-color: var(--ox-color-md-white); }
 
 
 /* ============================================================================ */
