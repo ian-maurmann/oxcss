@@ -1,14 +1,25 @@
+___
+
+[README](./../README.md) > [Release Notes](./../doc/release-notes.md)
+___
+
 # Release Notes
 
 ### Versions
 
-Version | Semver Tag | Date
---------| ---------- | ----
-0.0.2 | 0.3.0 | 2022-08-23
-0.0.1 | 0.2.0 | 2022-07-16
-0.0.0 | 0.1.0 | 2018-10-27
+Status | Version | Semver Tag | Date
+------ | --------| ---------- | ----
+Pre-Alpha | 0.0.3 | 0.4.0 | 2022-08-27
+Pre-Alpha | 0.0.2 | 0.3.0 | 2022-08-23
+Pre-Alpha | 0.0.1 | 0.2.0 | 2022-07-16
+IR        | 0.0.0 | 0.1.0 | 2018-10-27
 
 ### Release Notes:
+
+**0.0.3**
+- Pre-Alpha 3.
+- Added colors from Material Design.
+
 **0.0.2**
 - Pre-Alpha 2.
 - Added functionality for javascript event delegation.
