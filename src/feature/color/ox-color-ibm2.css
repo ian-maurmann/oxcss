@@ -1,0 +1,68 @@
+/*!
+    OXCSS Color IBM2
+    Define colors for OXCSS from the IBM Design Language v2 color set.
+
+    Colors from IBM v2
+    https://www.ibm.com/design/language/color
+    
+    OXCSS
+    @version 0.0
+    @author Ian Maurmann
+    @license https://opensource.org/licenses/MIT MIT License
+    @copyright Copyright (c) 2022 - Ian Maurmann
+*/
+
+
+/* Color Variables */
+:root {
+
+    /* IBM v2 - Red */
+    --ox-color-ibm2-red-100: #2d0709;
+    --ox-color-ibm2-red-90:  #520408;
+    --ox-color-ibm2-red-80:  #750e13;
+    --ox-color-ibm2-red-70:  #a2191f;
+    --ox-color-ibm2-red-60:  #da1e28;
+    --ox-color-ibm2-red-50:  #fa4d56;
+    --ox-color-ibm2-red-40:  #ff8389;
+    --ox-color-ibm2-red-30:  #ffb3b8;
+    --ox-color-ibm2-red-20:  #ffd7d9;
+    --ox-color-ibm2-red-10:  #fff1f1;
+
+
+
+}
+/* ============================================================================ */
+
+/* FG */
+
+
+/* ibm2 red */
+[data-ox-text-color="ibm2-red-100"] { color: var(--ox-color-ibm2-red-100); }
+[data-ox-text-color="ibm2-red-90"]  { color: var(--ox-color-ibm2-red-90); }
+[data-ox-text-color="ibm2-red-80"]  { color: var(--ox-color-ibm2-red-80); }
+[data-ox-text-color="ibm2-red-70"]  { color: var(--ox-color-ibm2-red-70); }
+[data-ox-text-color="ibm2-red-60"]  { color: var(--ox-color-ibm2-red-60); }
+[data-ox-text-color="ibm2-red-50"]  { color: var(--ox-color-ibm2-red-50); }
+[data-ox-text-color="ibm2-red-40"]  { color: var(--ox-color-ibm2-red-40); }
+[data-ox-text-color="ibm2-red-30"]  { color: var(--ox-color-ibm2-red-30); }
+[data-ox-text-color="ibm2-red-20"]  { color: var(--ox-color-ibm2-red-20); }
+[data-ox-text-color="ibm2-red-10"]  { color: var(--ox-color-ibm2-red-10); }
+
+/* ============================================================================ */
+
+/* BG */
+
+/* ibm2 red */
+[data-ox-bg-color="ibm2-red-100"] { background-color: var(--ox-color-ibm2-red-100); }
+[data-ox-bg-color="ibm2-red-90"]  { background-color: var(--ox-color-ibm2-red-90); }
+[data-ox-bg-color="ibm2-red-80"]  { background-color: var(--ox-color-ibm2-red-80); }
+[data-ox-bg-color="ibm2-red-70"]  { background-color: var(--ox-color-ibm2-red-70); }
+[data-ox-bg-color="ibm2-red-60"]  { background-color: var(--ox-color-ibm2-red-60); }
+[data-ox-bg-color="ibm2-red-50"]  { background-color: var(--ox-color-ibm2-red-50); }
+[data-ox-bg-color="ibm2-red-40"]  { background-color: var(--ox-color-ibm2-red-40); }
+[data-ox-bg-color="ibm2-red-30"]  { background-color: var(--ox-color-ibm2-red-30); }
+[data-ox-bg-color="ibm2-red-20"]  { background-color: var(--ox-color-ibm2-red-20); }
+[data-ox-bg-color="ibm2-red-10"]  { background-color: var(--ox-color-ibm2-red-10); }
+
+
+/* ============================================================================ */
