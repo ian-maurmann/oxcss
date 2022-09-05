@@ -55,6 +55,18 @@
     --ox-color-ibm2-purple-20:  #e8daff;
     --ox-color-ibm2-purple-10:  #f6f2ff;
 
+    /* IBM v2 - Blue */
+    --ox-color-ibm2-blue-100: #001141;
+    --ox-color-ibm2-blue-90:  #001d6c;
+    --ox-color-ibm2-blue-80:  #002d9c;
+    --ox-color-ibm2-blue-70:  #0043ce;
+    --ox-color-ibm2-blue-60:  #0f62fe;
+    --ox-color-ibm2-blue-50:  #4589ff;
+    --ox-color-ibm2-blue-40:  #78a9ff;
+    --ox-color-ibm2-blue-30:  #a6c8ff;
+    --ox-color-ibm2-blue-20:  #d0e2ff;
+    --ox-color-ibm2-blue-10:  #edf5ff;
+
 
 
 }
@@ -99,6 +111,18 @@
 [data-ox-text-color="ibm2-purple-20"]  { color: var(--ox-color-ibm2-purple-20); }
 [data-ox-text-color="ibm2-purple-10"]  { color: var(--ox-color-ibm2-purple-10); }
 
+/* ibm2 blue */
+[data-ox-text-color="ibm2-blue-100"] { color: var(--ox-color-ibm2-blue-100); }
+[data-ox-text-color="ibm2-blue-90"]  { color: var(--ox-color-ibm2-blue-90); }
+[data-ox-text-color="ibm2-blue-80"]  { color: var(--ox-color-ibm2-blue-80); }
+[data-ox-text-color="ibm2-blue-70"]  { color: var(--ox-color-ibm2-blue-70); }
+[data-ox-text-color="ibm2-blue-60"]  { color: var(--ox-color-ibm2-blue-60); }
+[data-ox-text-color="ibm2-blue-50"]  { color: var(--ox-color-ibm2-blue-50); }
+[data-ox-text-color="ibm2-blue-40"]  { color: var(--ox-color-ibm2-blue-40); }
+[data-ox-text-color="ibm2-blue-30"]  { color: var(--ox-color-ibm2-blue-30); }
+[data-ox-text-color="ibm2-blue-20"]  { color: var(--ox-color-ibm2-blue-20); }
+[data-ox-text-color="ibm2-blue-10"]  { color: var(--ox-color-ibm2-blue-10); }
+
 /* ============================================================================ */
 
 /* BG */
@@ -138,6 +162,18 @@
 [data-ox-bg-color="ibm2-purple-30"]  { background-color: var(--ox-color-ibm2-purple-30); }
 [data-ox-bg-color="ibm2-purple-20"]  { background-color: var(--ox-color-ibm2-purple-20); }
 [data-ox-bg-color="ibm2-purple-10"]  { background-color: var(--ox-color-ibm2-purple-10); }
+
+/* ibm2 blue */
+[data-ox-bg-color="ibm2-blue-100"] { background-color: var(--ox-color-ibm2-blue-100); }
+[data-ox-bg-color="ibm2-blue-90"]  { background-color: var(--ox-color-ibm2-blue-90); }
+[data-ox-bg-color="ibm2-blue-80"]  { background-color: var(--ox-color-ibm2-blue-80); }
+[data-ox-bg-color="ibm2-blue-70"]  { background-color: var(--ox-color-ibm2-blue-70); }
+[data-ox-bg-color="ibm2-blue-60"]  { background-color: var(--ox-color-ibm2-blue-60); }
+[data-ox-bg-color="ibm2-blue-50"]  { background-color: var(--ox-color-ibm2-blue-50); }
+[data-ox-bg-color="ibm2-blue-40"]  { background-color: var(--ox-color-ibm2-blue-40); }
+[data-ox-bg-color="ibm2-blue-30"]  { background-color: var(--ox-color-ibm2-blue-30); }
+[data-ox-bg-color="ibm2-blue-20"]  { background-color: var(--ox-color-ibm2-blue-20); }
+[data-ox-bg-color="ibm2-blue-10"]  { background-color: var(--ox-color-ibm2-blue-10); }
 
 
 /* ============================================================================ */
