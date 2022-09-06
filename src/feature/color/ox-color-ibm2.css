@@ -68,6 +68,19 @@
     --ox-color-ibm2-blue-10:  #edf5ff;
 
 
+    /* IBM v2 - Cyan */
+    --ox-color-ibm2-cyan-100: #061727;
+    --ox-color-ibm2-cyan-90:  #012749;
+    --ox-color-ibm2-cyan-80:  #003a6d;
+    --ox-color-ibm2-cyan-70:  #00539a;
+    --ox-color-ibm2-cyan-60:  #0072c3;
+    --ox-color-ibm2-cyan-50:  #1192e8;
+    --ox-color-ibm2-cyan-40:  #33b1ff;
+    --ox-color-ibm2-cyan-30:  #82cfff;
+    --ox-color-ibm2-cyan-20:  #bae6ff;
+    --ox-color-ibm2-cyan-10:  #e5f6ff;
+
+
 
 }
 /* ============================================================================ */
@@ -123,6 +136,18 @@
 [data-ox-text-color="ibm2-blue-20"]  { color: var(--ox-color-ibm2-blue-20); }
 [data-ox-text-color="ibm2-blue-10"]  { color: var(--ox-color-ibm2-blue-10); }
 
+/* ibm2 cyan */
+[data-ox-text-color="ibm2-cyan-100"] { color: var(--ox-color-ibm2-cyan-100); }
+[data-ox-text-color="ibm2-cyan-90"]  { color: var(--ox-color-ibm2-cyan-90); }
+[data-ox-text-color="ibm2-cyan-80"]  { color: var(--ox-color-ibm2-cyan-80); }
+[data-ox-text-color="ibm2-cyan-70"]  { color: var(--ox-color-ibm2-cyan-70); }
+[data-ox-text-color="ibm2-cyan-60"]  { color: var(--ox-color-ibm2-cyan-60); }
+[data-ox-text-color="ibm2-cyan-50"]  { color: var(--ox-color-ibm2-cyan-50); }
+[data-ox-text-color="ibm2-cyan-40"]  { color: var(--ox-color-ibm2-cyan-40); }
+[data-ox-text-color="ibm2-cyan-30"]  { color: var(--ox-color-ibm2-cyan-30); }
+[data-ox-text-color="ibm2-cyan-20"]  { color: var(--ox-color-ibm2-cyan-20); }
+[data-ox-text-color="ibm2-cyan-10"]  { color: var(--ox-color-ibm2-cyan-10); }
+
 /* ============================================================================ */
 
 /* BG */
@@ -174,6 +199,18 @@
 [data-ox-bg-color="ibm2-blue-30"]  { background-color: var(--ox-color-ibm2-blue-30); }
 [data-ox-bg-color="ibm2-blue-20"]  { background-color: var(--ox-color-ibm2-blue-20); }
 [data-ox-bg-color="ibm2-blue-10"]  { background-color: var(--ox-color-ibm2-blue-10); }
+
+/* ibm2 cyan */
+[data-ox-bg-color="ibm2-cyan-100"] { background-color: var(--ox-color-ibm2-cyan-100); }
+[data-ox-bg-color="ibm2-cyan-90"]  { background-color: var(--ox-color-ibm2-cyan-90); }
+[data-ox-bg-color="ibm2-cyan-80"]  { background-color: var(--ox-color-ibm2-cyan-80); }
+[data-ox-bg-color="ibm2-cyan-70"]  { background-color: var(--ox-color-ibm2-cyan-70); }
+[data-ox-bg-color="ibm2-cyan-60"]  { background-color: var(--ox-color-ibm2-cyan-60); }
+[data-ox-bg-color="ibm2-cyan-50"]  { background-color: var(--ox-color-ibm2-cyan-50); }
+[data-ox-bg-color="ibm2-cyan-40"]  { background-color: var(--ox-color-ibm2-cyan-40); }
+[data-ox-bg-color="ibm2-cyan-30"]  { background-color: var(--ox-color-ibm2-cyan-30); }
+[data-ox-bg-color="ibm2-cyan-20"]  { background-color: var(--ox-color-ibm2-cyan-20); }
+[data-ox-bg-color="ibm2-cyan-10"]  { background-color: var(--ox-color-ibm2-cyan-10); }
 
 
 /* ============================================================================ */
