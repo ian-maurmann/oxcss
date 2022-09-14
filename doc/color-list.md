@@ -8,7 +8,7 @@ ___
 Pure black & white:
 
     pure-black
-    
+
     pure-white
 
 sRBG pure color shades:
@@ -16,7 +16,7 @@ sRBG pure color shades:
     srbg-red
     srbg-green
     srbg-blue
-    
+
     srbg-cyan
     srbg-magenta
     srbg-yellow
@@ -25,41 +25,41 @@ sRBG pure color shades:
 Common colors:
 
     common-aquamarine
-    
+
     common-blue
-    
+
     common-cyan
-    
+
     common-dark-blue
-    
+
     common-fuchsia
-    
+
     common-gray
-    
+
     common-green
-    
+
     common-light-blue
-    
+
     common-lime
-    
+
     common-maroon
-    
+
     common-navy
-    
+
     common-olive
-    
+
     common-orange
-    
+
     common-pink
-    
+
     common-purple
-    
+
     common-red
-    
+
     common-silver
-    
+
     common-teal
-    
+
     common-yellow
 
 Material Design Colors:
@@ -362,7 +362,120 @@ Material Design Colors:
 
 
 
+IBM Design Language v2 Colors
 
+    ibm2-red-100
+    ibm2-red-90
+    ibm2-red-80
+    ibm2-red-70
+    ibm2-red-60
+    ibm2-red-50
+    ibm2-red-40
+    ibm2-red-30
+    ibm2-red-20
+    ibm2-red-10
+
+    ibm2-magenta-100
+    ibm2-magenta-90
+    ibm2-magenta-80
+    ibm2-magenta-70
+    ibm2-magenta-60
+    ibm2-magenta-50
+    ibm2-magenta-40
+    ibm2-magenta-30
+    ibm2-magenta-20
+    ibm2-magenta-10
+
+    ibm2-purple-100
+    ibm2-purple-90
+    ibm2-purple-80
+    ibm2-purple-70
+    ibm2-purple-60
+    ibm2-purple-50
+    ibm2-purple-40
+    ibm2-purple-30
+    ibm2-purple-20
+    ibm2-purple-10
+
+    ibm2-blue-100
+    ibm2-blue-90
+    ibm2-blue-80
+    ibm2-blue-70
+    ibm2-blue-60
+    ibm2-blue-50
+    ibm2-blue-40
+    ibm2-blue-30
+    ibm2-blue-20
+    ibm2-blue-10
+
+
+    ibm2-cyan-100
+    ibm2-cyan-90
+    ibm2-cyan-80
+    ibm2-cyan-70
+    ibm2-cyan-60
+    ibm2-cyan-50
+    ibm2-cyan-40
+    ibm2-cyan-30
+    ibm2-cyan-20
+    ibm2-cyan-10
+
+    ibm2 teal
+    ibm2-teal-100
+    ibm2-teal-90
+    ibm2-teal-80
+    ibm2-teal-70
+    ibm2-teal-60
+    ibm2-teal-50
+    ibm2-teal-40
+    ibm2-teal-30
+    ibm2-teal-20
+    ibm2-teal-10
+
+    ibm2-green-100
+    ibm2-green-90
+    ibm2-green-80
+    ibm2-green-70
+    ibm2-green-60
+    ibm2-green-50
+    ibm2-green-40
+    ibm2-green-30
+    ibm2-green-20
+    ibm2-green-10
+
+
+    ibm2-cool-gray-100
+    ibm2-cool-gray-90
+    ibm2-cool-gray-80
+    ibm2-cool-gray-70
+    ibm2-cool-gray-60
+    ibm2-cool-gray-50
+    ibm2-cool-gray-40
+    ibm2-cool-gray-30
+    ibm2-cool-gray-20
+    ibm2-cool-gray-10
+
+    ibm2-gray-100
+    ibm2-gray-90
+    ibm2-gray-80
+    ibm2-gray-70
+    ibm2-gray-60
+    ibm2-gray-50
+    ibm2-gray-40
+    ibm2-gray-30
+    ibm2-gray-20
+    ibm2-gray-10
+
+    ibm2-warm-gray-100
+    ibm2-warm-gray-90
+    ibm2-warm-gray-80
+    ibm2-warm-gray-70
+    ibm2-warm-gray-60
+    ibm2-warm-gray-50
+    ibm2-warm-gray-40
+    ibm2-warm-gray-30
+    ibm2-warm-gray-20
+    ibm2-warm-gray-10
 
 
 
