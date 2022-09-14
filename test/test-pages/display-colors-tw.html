@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Colors - OXCSS Test Page</title>
+
+    <link rel="stylesheet" href="../../src/ox.css">
+
+    <style>
+
+        /* Body */
+        body[data-namespace="ox-css"][data-feature="test-page"]
+        {
+            background-color: #f3f3f3;
+        }
+
+        /* Color Table */
+        [data-namespace="ox-css"][data-feature="test-page"]
+            [data-item-type="simple-color-table"]
+        {
+            margin: 3ex 2em;
+            border-spacing: 0px;
+        }
+        [data-namespace="ox-css"][data-feature="test-page"]
+            [data-item-type="simple-color-table"]
+                td
+        {
+            padding: 1ex 1em;
+        }
+        [data-namespace="ox-css"][data-feature="test-page"]
+            [data-item-type="simple-color-table"]
+                td[colspan="2"]
+        {
+            text-align: center;
+        }
+
+
+    </style>
+</head>
+<body data-namespace="ox-css" data-feature="test-page">
+    <h2>Display Colors:</h2>
+
+    <table data-item-type="simple-color-table">
+        <thead>
+            <tr>
+                <th>FG</th>
+                <th>BG</th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+
+            <tr><td colspan="2">Colors from the Tailwind CSS default color palette</td></tr>
+
+            <tr><td colspan="2" style="text-align: left;">
+                See: <br/>
+                <a href="https://tailwindcss.com/docs/customizing-colors">https://tailwindcss.com/docs/customizing-colors</a>
+            </td></tr>
+
+
+
+
+            <tr><td colspan="2">&nbsp;</td></tr>
+            <tr><td colspan="2">tw slate</td></tr>
+            <tr>
+                <td data-ox-text-color="pure-white" data-ox-bg-color="pure-black"  >  pure-white </td>
+                <td data-ox-bg-color="pure-white"   data-ox-text-color="pure-black" > pure-white </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-50" data-ox-bg-color="pure-black"  >  tw-slate-50 </td>
+                <td data-ox-bg-color="tw-slate-50"   data-ox-text-color="pure-black" > tw-slate-50 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-100" data-ox-bg-color="pure-black"  >  tw-slate-100 </td>
+                <td data-ox-bg-color="tw-slate-100"   data-ox-text-color="pure-black" > tw-slate-100 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-200" data-ox-bg-color="pure-black"  >  tw-slate-200 </td>
+                <td data-ox-bg-color="tw-slate-200"   data-ox-text-color="pure-black" > tw-slate-200 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-300" data-ox-bg-color="pure-black"  >  tw-slate-300 </td>
+                <td data-ox-bg-color="tw-slate-300"   data-ox-text-color="pure-black" > tw-slate-300 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-400" data-ox-bg-color="pure-black"  >  tw-slate-400 </td>
+                <td data-ox-bg-color="tw-slate-400"   data-ox-text-color="pure-black" > tw-slate-400 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-500" data-ox-bg-color="pure-white"  >  tw-slate-500 </td>
+                <td data-ox-bg-color="tw-slate-500"   data-ox-text-color="pure-white" > tw-slate-500 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-600" data-ox-bg-color="pure-white"  >  tw-slate-600 </td>
+                <td data-ox-bg-color="tw-slate-600"   data-ox-text-color="pure-white" > tw-slate-600 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-700" data-ox-bg-color="pure-white"  >  tw-slate-700 </td>
+                <td data-ox-bg-color="tw-slate-700"   data-ox-text-color="pure-white" > tw-slate-700 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-800" data-ox-bg-color="pure-white"  >  tw-slate-800 </td>
+                <td data-ox-bg-color="tw-slate-800"   data-ox-text-color="pure-white" > tw-slate-800 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="tw-slate-900" data-ox-bg-color="pure-white"  >  tw-slate-900 </td>
+                <td data-ox-bg-color="tw-slate-900"   data-ox-text-color="pure-white" > tw-slate-900 </td>
+            </tr>
+            <tr>
+                <td data-ox-text-color="pure-black" data-ox-bg-color="pure-white"  >  pure-black </td>
+                <td data-ox-bg-color="pure-black"   data-ox-text-color="pure-white" > pure-black </td>
+            </tr>
+
+
+
+
+
+
+        </tbody>
+    </table>
+</body>
+</html>

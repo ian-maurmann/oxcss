@@ -1,0 +1,74 @@
+/*!
+    OXCSS Color TW
+
+    Colors from the Tailwind CSS default color palette
+    See: https://tailwindcss.com/docs/customizing-colors
+
+
+    ========================================================
+    OXCSS
+    @version 0.1
+    @author Ian Maurmann
+    @license https://opensource.org/licenses/MIT MIT License
+    @copyright Copyright (c) 2022 - Ian Maurmann
+    ========================================================
+*/
+
+
+/* Color Variables */
+:root {
+
+    /* IBM v2 - Slate */
+    --ox-color-tw-slate-50:  #f8fafc;
+    --ox-color-tw-slate-100: #f1f5f9;
+    --ox-color-tw-slate-200: #e2e8f0;
+    --ox-color-tw-slate-300: #cbd5e1;
+    --ox-color-tw-slate-400: #94a3b8;
+    --ox-color-tw-slate-500: #64748b;
+    --ox-color-tw-slate-600: #475569;
+    --ox-color-tw-slate-700: #334155;
+    --ox-color-tw-slate-800: #1e293b;
+    --ox-color-tw-slate-900: #0f172a;
+
+
+
+
+}
+/* ============================================================================ */
+
+/* FG */
+
+
+/* tw slate */
+[data-ox-text-color="tw-slate-50"]  { color: var(--ox-color-tw-slate-50); }
+[data-ox-text-color="tw-slate-100"] { color: var(--ox-color-tw-slate-100); }
+[data-ox-text-color="tw-slate-200"] { color: var(--ox-color-tw-slate-200); }
+[data-ox-text-color="tw-slate-300"] { color: var(--ox-color-tw-slate-300); }
+[data-ox-text-color="tw-slate-400"] { color: var(--ox-color-tw-slate-400); }
+[data-ox-text-color="tw-slate-500"] { color: var(--ox-color-tw-slate-500); }
+[data-ox-text-color="tw-slate-600"] { color: var(--ox-color-tw-slate-600); }
+[data-ox-text-color="tw-slate-700"] { color: var(--ox-color-tw-slate-700); }
+[data-ox-text-color="tw-slate-800"] { color: var(--ox-color-tw-slate-800); }
+[data-ox-text-color="tw-slate-900"] { color: var(--ox-color-tw-slate-900); }
+
+
+
+/* ============================================================================ */
+
+/* BG */
+
+/* tw slate */
+[data-ox-bg-color="tw-slate-50"]  { background-color: var(--ox-color-tw-slate-50); }
+[data-ox-bg-color="tw-slate-100"] { background-color: var(--ox-color-tw-slate-100); }
+[data-ox-bg-color="tw-slate-200"] { background-color: var(--ox-color-tw-slate-200); }
+[data-ox-bg-color="tw-slate-300"] { background-color: var(--ox-color-tw-slate-300); }
+[data-ox-bg-color="tw-slate-400"] { background-color: var(--ox-color-tw-slate-400); }
+[data-ox-bg-color="tw-slate-500"] { background-color: var(--ox-color-tw-slate-500); }
+[data-ox-bg-color="tw-slate-600"] { background-color: var(--ox-color-tw-slate-600); }
+[data-ox-bg-color="tw-slate-700"] { background-color: var(--ox-color-tw-slate-700); }
+[data-ox-bg-color="tw-slate-800"] { background-color: var(--ox-color-tw-slate-800); }
+[data-ox-bg-color="tw-slate-900"] { background-color: var(--ox-color-tw-slate-900); }
+
+
+
+/* ============================================================================ */
