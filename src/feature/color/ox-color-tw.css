@@ -43,6 +43,19 @@
     --ox-color-tw-gray-900: #111827;
 
 
+    /* TW - Zinc */
+    --ox-color-tw-zinc-50:  #fafafa;
+    --ox-color-tw-zinc-100: #f4f4f5;
+    --ox-color-tw-zinc-200: #e4e4e7;
+    --ox-color-tw-zinc-300: #d4d4d8;
+    --ox-color-tw-zinc-400: #a1a1aa;
+    --ox-color-tw-zinc-500: #71717a;
+    --ox-color-tw-zinc-600: #52525b;
+    --ox-color-tw-zinc-700: #3f3f46;
+    --ox-color-tw-zinc-800: #27272a;
+    --ox-color-tw-zinc-900: #18181b;
+
+
 
 
 }
@@ -78,6 +91,19 @@
 [data-ox-text-color="tw-gray-900"] { color: var(--ox-color-tw-gray-900); }
 
 
+/* tw zinc */
+[data-ox-text-color="tw-zinc-50"]  { color: var(--ox-color-tw-zinc-50); }
+[data-ox-text-color="tw-zinc-100"] { color: var(--ox-color-tw-zinc-100); }
+[data-ox-text-color="tw-zinc-200"] { color: var(--ox-color-tw-zinc-200); }
+[data-ox-text-color="tw-zinc-300"] { color: var(--ox-color-tw-zinc-300); }
+[data-ox-text-color="tw-zinc-400"] { color: var(--ox-color-tw-zinc-400); }
+[data-ox-text-color="tw-zinc-500"] { color: var(--ox-color-tw-zinc-500); }
+[data-ox-text-color="tw-zinc-600"] { color: var(--ox-color-tw-zinc-600); }
+[data-ox-text-color="tw-zinc-700"] { color: var(--ox-color-tw-zinc-700); }
+[data-ox-text-color="tw-zinc-800"] { color: var(--ox-color-tw-zinc-800); }
+[data-ox-text-color="tw-zinc-900"] { color: var(--ox-color-tw-zinc-900); }
+
+
 
 /* ============================================================================ */
 
@@ -107,6 +133,20 @@
 [data-ox-bg-color="tw-gray-700"] { background-color: var(--ox-color-tw-gray-700); }
 [data-ox-bg-color="tw-gray-800"] { background-color: var(--ox-color-tw-gray-800); }
 [data-ox-bg-color="tw-gray-900"] { background-color: var(--ox-color-tw-gray-900); }
+
+
+
+/* tw zinc */
+[data-ox-bg-color="tw-zinc-50"]  { background-color: var(--ox-color-tw-zinc-50); }
+[data-ox-bg-color="tw-zinc-100"] { background-color: var(--ox-color-tw-zinc-100); }
+[data-ox-bg-color="tw-zinc-200"] { background-color: var(--ox-color-tw-zinc-200); }
+[data-ox-bg-color="tw-zinc-300"] { background-color: var(--ox-color-tw-zinc-300); }
+[data-ox-bg-color="tw-zinc-400"] { background-color: var(--ox-color-tw-zinc-400); }
+[data-ox-bg-color="tw-zinc-500"] { background-color: var(--ox-color-tw-zinc-500); }
+[data-ox-bg-color="tw-zinc-600"] { background-color: var(--ox-color-tw-zinc-600); }
+[data-ox-bg-color="tw-zinc-700"] { background-color: var(--ox-color-tw-zinc-700); }
+[data-ox-bg-color="tw-zinc-800"] { background-color: var(--ox-color-tw-zinc-800); }
+[data-ox-bg-color="tw-zinc-900"] { background-color: var(--ox-color-tw-zinc-900); }
 
 
 
