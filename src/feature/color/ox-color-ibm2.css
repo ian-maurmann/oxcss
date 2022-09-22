@@ -141,6 +141,12 @@
     --ox-color-ibm2-warm-gray-20:  #e5e0df;
     --ox-color-ibm2-warm-gray-10:  #f7f3f2;
 
+    /* IBM v2 - Alert Colors */
+    --ox-color-ibm2-alert-60:  #da1e28;
+    --ox-color-ibm2-alert-50:  #24a148;
+    --ox-color-ibm2-alert-40:  #ff832b;
+    --ox-color-ibm2-alert-30:  #f1c21b;
+
 
 
 }
@@ -271,6 +277,11 @@
 [data-ox-text-color="ibm2-warm-gray-10"]  { color: var(--ox-color-ibm2-warm-gray-10); }
 
 
+/* ibm2 alert */
+[data-ox-text-color="ibm2-alert-60"]  { color: var(--ox-color-ibm2-alert-60); }
+[data-ox-text-color="ibm2-alert-50"]  { color: var(--ox-color-ibm2-alert-50); }
+[data-ox-text-color="ibm2-alert-40"]  { color: var(--ox-color-ibm2-alert-40); }
+[data-ox-text-color="ibm2-alert-30"]  { color: var(--ox-color-ibm2-alert-30); }
 
 
 
@@ -400,6 +411,13 @@
 [data-ox-bg-color="ibm2-warm-gray-30"]  { background-color: var(--ox-color-ibm2-warm-gray-30); }
 [data-ox-bg-color="ibm2-warm-gray-20"]  { background-color: var(--ox-color-ibm2-warm-gray-20); }
 [data-ox-bg-color="ibm2-warm-gray-10"]  { background-color: var(--ox-color-ibm2-warm-gray-10); }
+
+
+/* ibm2 alert */
+[data-ox-bg-color="ibm2-alert-60"]  { background-color: var(--ox-color-ibm2-alert-60); }
+[data-ox-bg-color="ibm2-alert-50"]  { background-color: var(--ox-color-ibm2-alert-50); }
+[data-ox-bg-color="ibm2-alert-40"]  { background-color: var(--ox-color-ibm2-alert-40); }
+[data-ox-bg-color="ibm2-alert-30"]  { background-color: var(--ox-color-ibm2-alert-30); }
 
 
 /* ============================================================================ */
