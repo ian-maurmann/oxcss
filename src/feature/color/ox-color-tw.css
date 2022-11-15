@@ -272,6 +272,19 @@
     --ox-color-tw-fuchsia-900: #701a75;
 
 
+    /* TW - pink */
+    --ox-color-tw-pink-50:  #fdf2f8;
+    --ox-color-tw-pink-100: #fce7f3;
+    --ox-color-tw-pink-200: #fbcfe8;
+    --ox-color-tw-pink-300: #f9a8d4;
+    --ox-color-tw-pink-400: #f472b6;
+    --ox-color-tw-pink-500: #ec4899;
+    --ox-color-tw-pink-600: #db2777;
+    --ox-color-tw-pink-700: #be185d;
+    --ox-color-tw-pink-800: #9d174d;
+    --ox-color-tw-pink-900: #831843;
+
+
 
 
 
@@ -538,6 +551,19 @@
 [data-ox-text-color="tw-fuchsia-800"] { color: var(--ox-color-tw-fuchsia-800); }
 [data-ox-text-color="tw-fuchsia-900"] { color: var(--ox-color-tw-fuchsia-900); }
 
+
+/* tw pink */
+[data-ox-text-color="tw-pink-50"]  { color: var(--ox-color-tw-pink-50); }
+[data-ox-text-color="tw-pink-100"] { color: var(--ox-color-tw-pink-100); }
+[data-ox-text-color="tw-pink-200"] { color: var(--ox-color-tw-pink-200); }
+[data-ox-text-color="tw-pink-300"] { color: var(--ox-color-tw-pink-300); }
+[data-ox-text-color="tw-pink-400"] { color: var(--ox-color-tw-pink-400); }
+[data-ox-text-color="tw-pink-500"] { color: var(--ox-color-tw-pink-500); }
+[data-ox-text-color="tw-pink-600"] { color: var(--ox-color-tw-pink-600); }
+[data-ox-text-color="tw-pink-700"] { color: var(--ox-color-tw-pink-700); }
+[data-ox-text-color="tw-pink-800"] { color: var(--ox-color-tw-pink-800); }
+[data-ox-text-color="tw-pink-900"] { color: var(--ox-color-tw-pink-900); }
+
 /* ============================================================================ */
 
 /* BG */
@@ -803,6 +829,20 @@
 [data-ox-bg-color="tw-fuchsia-700"] { background-color: var(--ox-color-tw-fuchsia-700); }
 [data-ox-bg-color="tw-fuchsia-800"] { background-color: var(--ox-color-tw-fuchsia-800); }
 [data-ox-bg-color="tw-fuchsia-900"] { background-color: var(--ox-color-tw-fuchsia-900); }
+
+
+
+/* tw pink */
+[data-ox-bg-color="tw-pink-50"]  { background-color: var(--ox-color-tw-pink-50); }
+[data-ox-bg-color="tw-pink-100"] { background-color: var(--ox-color-tw-pink-100); }
+[data-ox-bg-color="tw-pink-200"] { background-color: var(--ox-color-tw-pink-200); }
+[data-ox-bg-color="tw-pink-300"] { background-color: var(--ox-color-tw-pink-300); }
+[data-ox-bg-color="tw-pink-400"] { background-color: var(--ox-color-tw-pink-400); }
+[data-ox-bg-color="tw-pink-500"] { background-color: var(--ox-color-tw-pink-500); }
+[data-ox-bg-color="tw-pink-600"] { background-color: var(--ox-color-tw-pink-600); }
+[data-ox-bg-color="tw-pink-700"] { background-color: var(--ox-color-tw-pink-700); }
+[data-ox-bg-color="tw-pink-800"] { background-color: var(--ox-color-tw-pink-800); }
+[data-ox-bg-color="tw-pink-900"] { background-color: var(--ox-color-tw-pink-900); }
 
 
 
