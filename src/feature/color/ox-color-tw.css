@@ -285,6 +285,19 @@
     --ox-color-tw-pink-900: #831843;
 
 
+    /* TW - rose */
+    --ox-color-tw-rose-50:  #fff1f2;
+    --ox-color-tw-rose-100: #ffe4e6;
+    --ox-color-tw-rose-200: #fecdd3;
+    --ox-color-tw-rose-300: #fda4af;
+    --ox-color-tw-rose-400: #fb7185;
+    --ox-color-tw-rose-500: #f43f5e;
+    --ox-color-tw-rose-600: #e11d48;
+    --ox-color-tw-rose-700: #be123c;
+    --ox-color-tw-rose-800: #9f1239;
+    --ox-color-tw-rose-900: #881337;
+
+
 
 
 
@@ -563,6 +576,20 @@
 [data-ox-text-color="tw-pink-700"] { color: var(--ox-color-tw-pink-700); }
 [data-ox-text-color="tw-pink-800"] { color: var(--ox-color-tw-pink-800); }
 [data-ox-text-color="tw-pink-900"] { color: var(--ox-color-tw-pink-900); }
+
+
+
+/* tw rose */
+[data-ox-text-color="tw-rose-50"]  { color: var(--ox-color-tw-rose-50); }
+[data-ox-text-color="tw-rose-100"] { color: var(--ox-color-tw-rose-100); }
+[data-ox-text-color="tw-rose-200"] { color: var(--ox-color-tw-rose-200); }
+[data-ox-text-color="tw-rose-300"] { color: var(--ox-color-tw-rose-300); }
+[data-ox-text-color="tw-rose-400"] { color: var(--ox-color-tw-rose-400); }
+[data-ox-text-color="tw-rose-500"] { color: var(--ox-color-tw-rose-500); }
+[data-ox-text-color="tw-rose-600"] { color: var(--ox-color-tw-rose-600); }
+[data-ox-text-color="tw-rose-700"] { color: var(--ox-color-tw-rose-700); }
+[data-ox-text-color="tw-rose-800"] { color: var(--ox-color-tw-rose-800); }
+[data-ox-text-color="tw-rose-900"] { color: var(--ox-color-tw-rose-900); }
 
 /* ============================================================================ */
 
@@ -843,6 +870,19 @@
 [data-ox-bg-color="tw-pink-700"] { background-color: var(--ox-color-tw-pink-700); }
 [data-ox-bg-color="tw-pink-800"] { background-color: var(--ox-color-tw-pink-800); }
 [data-ox-bg-color="tw-pink-900"] { background-color: var(--ox-color-tw-pink-900); }
+
+
+/* tw rose */
+[data-ox-bg-color="tw-rose-50"]  { background-color: var(--ox-color-tw-rose-50); }
+[data-ox-bg-color="tw-rose-100"] { background-color: var(--ox-color-tw-rose-100); }
+[data-ox-bg-color="tw-rose-200"] { background-color: var(--ox-color-tw-rose-200); }
+[data-ox-bg-color="tw-rose-300"] { background-color: var(--ox-color-tw-rose-300); }
+[data-ox-bg-color="tw-rose-400"] { background-color: var(--ox-color-tw-rose-400); }
+[data-ox-bg-color="tw-rose-500"] { background-color: var(--ox-color-tw-rose-500); }
+[data-ox-bg-color="tw-rose-600"] { background-color: var(--ox-color-tw-rose-600); }
+[data-ox-bg-color="tw-rose-700"] { background-color: var(--ox-color-tw-rose-700); }
+[data-ox-bg-color="tw-rose-800"] { background-color: var(--ox-color-tw-rose-800); }
+[data-ox-bg-color="tw-rose-900"] { background-color: var(--ox-color-tw-rose-900); }
 
 
 
