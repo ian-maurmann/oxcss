@@ -1,0 +1,87 @@
+/*!
+    OXCSS Color Ant
+    ===============
+
+    Colors from Ant Design's base color palette
+    See: https://ant.design/docs/spec/colors
+
+        ========================================================
+        Ant Design is:
+        Copyright (c) 2015-present Ant UED, https://xtech.antfin.com/
+        License: MIT License
+        ========================================================
+
+
+
+
+    ========================================================
+    OXCSS
+    @version 0.1
+    @author Ian Maurmann
+    @license https://opensource.org/licenses/MIT MIT License
+    @copyright Copyright (c) 2022 - Ian Maurmann
+    ========================================================
+*/
+
+
+/* Color Variables */
+:root {
+
+
+    /* Ant - Red */
+    --ox-color-ant-red-1:  #fff1f0;
+    --ox-color-ant-red-2:  #ffccc7;
+    --ox-color-ant-red-3:  #ffa39e;
+    --ox-color-ant-red-4:  #ff7875;
+    --ox-color-ant-red-5:  #ff4d4f;
+    --ox-color-ant-red-6:  #f5222d;
+    --ox-color-ant-red-7:  #cf1322;
+    --ox-color-ant-red-8:  #a8071a;
+    --ox-color-ant-red-9:  #820014;
+    --ox-color-ant-red-10: #5c0011;
+
+
+
+
+
+
+}
+/* ============================================================================ */
+
+/* FG */
+
+
+/* Ant red */
+[data-ox-text-color="ant-red-1"]  { color: var(--ox-color-ant-red-1);  }
+[data-ox-text-color="ant-red-2"]  { color: var(--ox-color-ant-red-2);  }
+[data-ox-text-color="ant-red-3"]  { color: var(--ox-color-ant-red-3);  }
+[data-ox-text-color="ant-red-4"]  { color: var(--ox-color-ant-red-4);  }
+[data-ox-text-color="ant-red-5"]  { color: var(--ox-color-ant-red-5);  }
+[data-ox-text-color="ant-red-6"]  { color: var(--ox-color-ant-red-6);  }
+[data-ox-text-color="ant-red-7"]  { color: var(--ox-color-ant-red-7);  }
+[data-ox-text-color="ant-red-8"]  { color: var(--ox-color-ant-red-8);  }
+[data-ox-text-color="ant-red-9"]  { color: var(--ox-color-ant-red-9);  }
+[data-ox-text-color="ant-red-10"] { color: var(--ox-color-ant-red-10); }
+
+
+/* ============================================================================ */
+
+/* BG */
+
+
+
+/* Ant red */
+[data-ox-bg-color="ant-red-1"]  { background-color: var(--ox-color-ant-red-1);  }
+[data-ox-bg-color="ant-red-2"]  { background-color: var(--ox-color-ant-red-2);  }
+[data-ox-bg-color="ant-red-3"]  { background-color: var(--ox-color-ant-red-3);  }
+[data-ox-bg-color="ant-red-4"]  { background-color: var(--ox-color-ant-red-4);  }
+[data-ox-bg-color="ant-red-5"]  { background-color: var(--ox-color-ant-red-5);  }
+[data-ox-bg-color="ant-red-6"]  { background-color: var(--ox-color-ant-red-6);  }
+[data-ox-bg-color="ant-red-7"]  { background-color: var(--ox-color-ant-red-7);  }
+[data-ox-bg-color="ant-red-8"]  { background-color: var(--ox-color-ant-red-8);  }
+[data-ox-bg-color="ant-red-9"]  { background-color: var(--ox-color-ant-red-9);  }
+[data-ox-bg-color="ant-red-10"] { background-color: var(--ox-color-ant-red-10); }
+
+
+
+/* ============================================================================ */
