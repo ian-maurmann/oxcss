@@ -67,7 +67,17 @@
     --ox-color-ant-orange-10: #612500;
 
 
-
+    /* Ant - gold */
+    --ox-color-ant-gold-1:  #fffbe6;
+    --ox-color-ant-gold-2:  #fff1b8;
+    --ox-color-ant-gold-3:  #ffe58f;
+    --ox-color-ant-gold-4:  #ffd666;
+    --ox-color-ant-gold-5:  #ffc53d;
+    --ox-color-ant-gold-6:  #faad14;
+    --ox-color-ant-gold-7:  #d48806;
+    --ox-color-ant-gold-8:  #ad6800;
+    --ox-color-ant-gold-9:  #874d00;
+    --ox-color-ant-gold-10: #613400;
 
 
 
@@ -120,6 +130,19 @@
 [data-ox-text-color="ant-orange-10"] { color: var(--ox-color-ant-orange-10); }
 
 
+/* Ant gold */
+[data-ox-text-color="ant-gold-1"]  { color: var(--ox-color-ant-gold-1);  }
+[data-ox-text-color="ant-gold-2"]  { color: var(--ox-color-ant-gold-2);  }
+[data-ox-text-color="ant-gold-3"]  { color: var(--ox-color-ant-gold-3);  }
+[data-ox-text-color="ant-gold-4"]  { color: var(--ox-color-ant-gold-4);  }
+[data-ox-text-color="ant-gold-5"]  { color: var(--ox-color-ant-gold-5);  }
+[data-ox-text-color="ant-gold-6"]  { color: var(--ox-color-ant-gold-6);  }
+[data-ox-text-color="ant-gold-7"]  { color: var(--ox-color-ant-gold-7);  }
+[data-ox-text-color="ant-gold-8"]  { color: var(--ox-color-ant-gold-8);  }
+[data-ox-text-color="ant-gold-9"]  { color: var(--ox-color-ant-gold-9);  }
+[data-ox-text-color="ant-gold-10"] { color: var(--ox-color-ant-gold-10); }
+
+
 /* ============================================================================ */
 
 /* BG */
@@ -167,6 +190,19 @@
 [data-ox-bg-color="ant-orange-8"]  { background-color: var(--ox-color-ant-orange-8);  }
 [data-ox-bg-color="ant-orange-9"]  { background-color: var(--ox-color-ant-orange-9);  }
 [data-ox-bg-color="ant-orange-10"] { background-color: var(--ox-color-ant-orange-10); }
+
+
+/* Ant gold */
+[data-ox-bg-color="ant-gold-1"]  { background-color: var(--ox-color-ant-gold-1);  }
+[data-ox-bg-color="ant-gold-2"]  { background-color: var(--ox-color-ant-gold-2);  }
+[data-ox-bg-color="ant-gold-3"]  { background-color: var(--ox-color-ant-gold-3);  }
+[data-ox-bg-color="ant-gold-4"]  { background-color: var(--ox-color-ant-gold-4);  }
+[data-ox-bg-color="ant-gold-5"]  { background-color: var(--ox-color-ant-gold-5);  }
+[data-ox-bg-color="ant-gold-6"]  { background-color: var(--ox-color-ant-gold-6);  }
+[data-ox-bg-color="ant-gold-7"]  { background-color: var(--ox-color-ant-gold-7);  }
+[data-ox-bg-color="ant-gold-8"]  { background-color: var(--ox-color-ant-gold-8);  }
+[data-ox-bg-color="ant-gold-9"]  { background-color: var(--ox-color-ant-gold-9);  }
+[data-ox-bg-color="ant-gold-10"] { background-color: var(--ox-color-ant-gold-10); }
 
 
 
