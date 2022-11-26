@@ -9,13 +9,20 @@ ___
 
 Status | Version | Semver Tag | Date
 ------ | --------| ---------- | ----
+Alpha 1     | 0.1.1 | 0.6.0 | 2022-11-26
 UF          | 0.1.0 | 0.5.0 | 2022-09-13
 Pre-Alpha 3 | 0.0.3 | 0.4.0 | 2022-08-27
 Pre-Alpha 2 | 0.0.2 | 0.3.0 | 2022-08-23
 Pre-Alpha 1 | 0.0.1 | 0.2.0 | 2022-07-16
 IR          | 0.0.0 | 0.1.0 | 2018-10-27
+IC          |       |       | 2016-04-16
 
 ### Release Notes:
+
+**0.1.1**
+- Alpha 1.
+- Added colors from Tailwind CSS.
+- Combined JS files; Only need to call ox.js now.
 
 **0.1.0**
 - Usable Features.
