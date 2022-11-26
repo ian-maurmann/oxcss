@@ -32,7 +32,6 @@ Ox.EventListener.delegate = function(selector, event_type_name, handler){
     // Listen for event to happen on given selector
     $(document).on(delegatable, selector );
 }
-
 /**
  * Function that will be called when the event happens.
  * @callback Ox.EventListener~methodDelegateParamHandlerCallback
