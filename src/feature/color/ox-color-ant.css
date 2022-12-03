@@ -169,6 +169,19 @@
     --ox-color-ant-purple-10: #120338;
 
 
+    /* Ant - magenta */
+    --ox-color-ant-magenta-1:  #fff0f6;
+    --ox-color-ant-magenta-2:  #ffd6e7;
+    --ox-color-ant-magenta-3:  #ffadd2;
+    --ox-color-ant-magenta-4:  #ff85c0;
+    --ox-color-ant-magenta-5:  #f759ab;
+    --ox-color-ant-magenta-6:  #eb2f96;
+    --ox-color-ant-magenta-7:  #c41d7f;
+    --ox-color-ant-magenta-8:  #9e1068;
+    --ox-color-ant-magenta-9:  #780650;
+    --ox-color-ant-magenta-10: #520339;
+
+
 
 
 
@@ -321,6 +334,19 @@
 [data-ox-text-color="ant-purple-10"] { color: var(--ox-color-ant-purple-10); }
 
 
+/* Ant magenta */
+[data-ox-text-color="ant-magenta-1"]  { color: var(--ox-color-ant-magenta-1);  }
+[data-ox-text-color="ant-magenta-2"]  { color: var(--ox-color-ant-magenta-2);  }
+[data-ox-text-color="ant-magenta-3"]  { color: var(--ox-color-ant-magenta-3);  }
+[data-ox-text-color="ant-magenta-4"]  { color: var(--ox-color-ant-magenta-4);  }
+[data-ox-text-color="ant-magenta-5"]  { color: var(--ox-color-ant-magenta-5);  }
+[data-ox-text-color="ant-magenta-6"]  { color: var(--ox-color-ant-magenta-6);  }
+[data-ox-text-color="ant-magenta-7"]  { color: var(--ox-color-ant-magenta-7);  }
+[data-ox-text-color="ant-magenta-8"]  { color: var(--ox-color-ant-magenta-8);  }
+[data-ox-text-color="ant-magenta-9"]  { color: var(--ox-color-ant-magenta-9);  }
+[data-ox-text-color="ant-magenta-10"] { color: var(--ox-color-ant-magenta-10); }
+
+
 /* ============================================================================ */
 
 /* BG */
@@ -471,6 +497,19 @@
 [data-ox-bg-color="ant-purple-8"]  { background-color: var(--ox-color-ant-purple-8);  }
 [data-ox-bg-color="ant-purple-9"]  { background-color: var(--ox-color-ant-purple-9);  }
 [data-ox-bg-color="ant-purple-10"] { background-color: var(--ox-color-ant-purple-10); }
+
+
+/* Ant magenta */
+[data-ox-bg-color="ant-magenta-1"]  { background-color: var(--ox-color-ant-magenta-1);  }
+[data-ox-bg-color="ant-magenta-2"]  { background-color: var(--ox-color-ant-magenta-2);  }
+[data-ox-bg-color="ant-magenta-3"]  { background-color: var(--ox-color-ant-magenta-3);  }
+[data-ox-bg-color="ant-magenta-4"]  { background-color: var(--ox-color-ant-magenta-4);  }
+[data-ox-bg-color="ant-magenta-5"]  { background-color: var(--ox-color-ant-magenta-5);  }
+[data-ox-bg-color="ant-magenta-6"]  { background-color: var(--ox-color-ant-magenta-6);  }
+[data-ox-bg-color="ant-magenta-7"]  { background-color: var(--ox-color-ant-magenta-7);  }
+[data-ox-bg-color="ant-magenta-8"]  { background-color: var(--ox-color-ant-magenta-8);  }
+[data-ox-bg-color="ant-magenta-9"]  { background-color: var(--ox-color-ant-magenta-9);  }
+[data-ox-bg-color="ant-magenta-10"] { background-color: var(--ox-color-ant-magenta-10); }
 
 
 
