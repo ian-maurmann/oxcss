@@ -707,6 +707,154 @@ Colors from the Tailwind CSS default color palette
     tw-rose-800
     tw-rose-900
 
+Colors from Ant Design's base color palette
+    
+    ox-color-ant-red-1
+    ox-color-ant-red-2
+    ox-color-ant-red-4
+    ox-color-ant-red-3
+    ox-color-ant-red-5
+    ox-color-ant-red-6
+    ox-color-ant-red-7
+    ox-color-ant-red-8
+    ox-color-ant-red-9
+    ox-color-ant-red-10
+    
+    ox-color-ant-volcano-1
+    ox-color-ant-volcano-2
+    ox-color-ant-volcano-3
+    ox-color-ant-volcano-4
+    ox-color-ant-volcano-5
+    ox-color-ant-volcano-6
+    ox-color-ant-volcano-7
+    ox-color-ant-volcano-8
+    ox-color-ant-volcano-9
+    ox-color-ant-volcano-10
+    
+    ox-color-ant-orange-1
+    ox-color-ant-orange-2
+    ox-color-ant-orange-3
+    ox-color-ant-orange-4
+    ox-color-ant-orange-5
+    ox-color-ant-orange-6
+    ox-color-ant-orange-7
+    ox-color-ant-orange-8
+    ox-color-ant-orange-9
+    ox-color-ant-orange-10
+    
+    ox-color-ant-gold-1
+    ox-color-ant-gold-2
+    ox-color-ant-gold-3
+    ox-color-ant-gold-4
+    ox-color-ant-gold-5
+    ox-color-ant-gold-6
+    ox-color-ant-gold-7
+    ox-color-ant-gold-8
+    ox-color-ant-gold-9
+    ox-color-ant-gold-10
+    
+    ox-color-ant-yellow-1
+    ox-color-ant-yellow-2
+    ox-color-ant-yellow-3
+    ox-color-ant-yellow-4
+    ox-color-ant-yellow-5
+    ox-color-ant-yellow-6
+    ox-color-ant-yellow-7
+    ox-color-ant-yellow-8
+    ox-color-ant-yellow-9
+    ox-color-ant-yellow-10
+    
+    ox-color-ant-lime-1
+    ox-color-ant-lime-2
+    ox-color-ant-lime-3
+    ox-color-ant-lime-4
+    ox-color-ant-lime-5
+    ox-color-ant-lime-6
+    ox-color-ant-lime-7
+    ox-color-ant-lime-8
+    ox-color-ant-lime-9
+    ox-color-ant-lime-10
+    
+    ox-color-ant-green-1
+    ox-color-ant-green-2
+    ox-color-ant-green-3
+    ox-color-ant-green-4
+    ox-color-ant-green-5
+    ox-color-ant-green-6
+    ox-color-ant-green-7
+    ox-color-ant-green-8
+    ox-color-ant-green-9
+    ox-color-ant-green-10
+    
+    ox-color-ant-cyan-1
+    ox-color-ant-cyan-2
+    ox-color-ant-cyan-3
+    ox-color-ant-cyan-4
+    ox-color-ant-cyan-5
+    ox-color-ant-cyan-6
+    ox-color-ant-cyan-7
+    ox-color-ant-cyan-8
+    ox-color-ant-cyan-9
+    ox-color-ant-cyan-10
+    
+    ox-color-ant-blue-1
+    ox-color-ant-blue-2
+    ox-color-ant-blue-3
+    ox-color-ant-blue-4
+    ox-color-ant-blue-5
+    ox-color-ant-blue-6
+    ox-color-ant-blue-7
+    ox-color-ant-blue-8
+    ox-color-ant-blue-9
+    ox-color-ant-blue-10
+    
+    ox-color-ant-geekblue-1
+    ox-color-ant-geekblue-2
+    ox-color-ant-geekblue-3
+    ox-color-ant-geekblue-4
+    ox-color-ant-geekblue-5
+    ox-color-ant-geekblue-6
+    ox-color-ant-geekblue-7
+    ox-color-ant-geekblue-8
+    ox-color-ant-geekblue-9
+    ox-color-ant-geekblue-10
+    
+    ox-color-ant-purple-1
+    ox-color-ant-purple-2
+    ox-color-ant-purple-3
+    ox-color-ant-purple-4
+    ox-color-ant-purple-5
+    ox-color-ant-purple-6
+    ox-color-ant-purple-7
+    ox-color-ant-purple-8
+    ox-color-ant-purple-9
+    ox-color-ant-purple-10
+    
+    ox-color-ant-magenta-1
+    ox-color-ant-magenta-2
+    ox-color-ant-magenta-3
+    ox-color-ant-magenta-4
+    ox-color-ant-magenta-5
+    ox-color-ant-magenta-6
+    ox-color-ant-magenta-7
+    ox-color-ant-magenta-8
+    ox-color-ant-magenta-9
+    ox-color-ant-magenta-10
+    
+    ox-color-ant-gray-1
+    ox-color-ant-gray-2
+    ox-color-ant-gray-3
+    ox-color-ant-gray-4
+    ox-color-ant-gray-5
+    ox-color-ant-gray-6
+    ox-color-ant-gray-7
+    ox-color-ant-gray-8
+    ox-color-ant-gray-9
+    ox-color-ant-gray-10
+    ox-color-ant-gray-11
+    ox-color-ant-gray-12
+    ox-color-ant-gray-13
+
 
 ___
 
