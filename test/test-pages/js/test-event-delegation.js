@@ -13,7 +13,7 @@ myapp_page.construct = function(){
 myapp_page.addEvents = function(){
     self = myapp_page;
 
-    Ox.EventListener.delegate('[data-myapp-click-event="myapp.test-page >>> clickme"]', 'click', self.handle_clickme);
+    Ox.Event.delegate('[data-myapp-click-event="myapp.test-page >>> clickme"]', 'click', self.handle_clickme);
 };
 
 // Handle clickme
