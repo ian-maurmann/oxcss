@@ -9,6 +9,7 @@ ___
 
 Status | Version | Semver Tag | Date
 ------ | --------| ---------- | ----
+Alpha 3     | 0.1.3 | 0.8.0 | 2022-12-12
 Alpha 2     | 0.1.2 | 0.7.0 | 2022-12-03
 Alpha 1     | 0.1.1 | 0.6.0 | 2022-11-26
 UF          | 0.1.0 | 0.5.0 | 2022-09-13
@@ -19,6 +20,11 @@ IR          | 0.0.0 | 0.1.0 | 2018-10-27
 IC          |       |       | 2016-04-16
 
 ### Release Notes:
+
+**0.1.3**
+- Alpha 3.
+- Combined CSS files; Only need to call ox.css now.
+- Simplified Ox.EventListener to be just Ox.Event now.
 
 **0.1.2**
 - Alpha 2.
