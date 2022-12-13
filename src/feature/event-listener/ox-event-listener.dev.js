@@ -15,8 +15,8 @@ if( typeof Ox === 'undefined' || Ox === null || Ox === false){
 // __________ __________ __________ __________ __________
 
 // Check if Ox Event Listener exists
-if( typeof Ox.EventListener === 'undefined' || Ox.EventListener === null || Ox.EventListener === false){
-    Ox.EventListener = {};
+if( typeof Ox.Event === 'undefined' || Ox.Event === null || Ox.Event === false){
+    Ox.Event = {};
 }
 
 
@@ -26,9 +26,9 @@ if( typeof Ox.EventListener === 'undefined' || Ox.EventListener === null || Ox.E
  * @author Ian Maurmann
  * @param {string} selector - jQuery selector of the HTML element that will be clicked/dragger/hovered, etc.
  * @param {string} event_type_name - The event type, i.e. "click".
- * @param {Ox.EventListener~methodDelegateParamHandlerCallback} handler - Function that will be called when the event happens.
+ * @param {Ox.Event~methodDelegateParamHandlerCallback} handler - Function that will be called when the event happens.
  */
-Ox.EventListener.delegate = function(selector, event_type_name, handler){
+Ox.Event.delegate = function(selector, event_type_name, handler){
     // Start delegatable as an empty object
     let delegatable = {};
 
@@ -43,7 +43,7 @@ Ox.EventListener.delegate = function(selector, event_type_name, handler){
 }
 /**
  * Function that will be called when the event happens.
- * @callback Ox.EventListener~methodDelegateParamHandlerCallback
+ * @callback Ox.Event~methodDelegateParamHandlerCallback
  * @param {object} element - jQuery element object
  * @param {event} event - Event that was triggered
  */
