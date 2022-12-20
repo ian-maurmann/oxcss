@@ -120,6 +120,22 @@
 
 
 
+    /* IBM v1 - gold */
+    --ox-color-ibm1-gold-1:   #f5e8db;
+    --ox-color-ibm1-gold-10:  #ffd191;
+    --ox-color-ibm1-gold-20:  #ffb000;
+    --ox-color-ibm1-gold-30:  #e39d14;
+    --ox-color-ibm1-gold-40:  #c4881c;
+    --ox-color-ibm1-gold-50:  #9c6d1e;
+    --ox-color-ibm1-gold-60:  #74521b;
+    --ox-color-ibm1-gold-70:  #5b421c;
+    --ox-color-ibm1-gold-80:  #42301b;
+    --ox-color-ibm1-gold-90:  #2f261c;
+
+
+
+
+
 
 
 
@@ -240,7 +256,17 @@
 [data-ox-text-color="ibm1-yellow-90"] { color: var(--ox-color-ibm1-yellow-90); }
 
 
-
+/* ibm1 gold */
+[data-ox-text-color="ibm1-gold-1"]  { color: var(--ox-color-ibm1-gold-1);  }
+[data-ox-text-color="ibm1-gold-10"] { color: var(--ox-color-ibm1-gold-10); }
+[data-ox-text-color="ibm1-gold-20"] { color: var(--ox-color-ibm1-gold-20); }
+[data-ox-text-color="ibm1-gold-30"] { color: var(--ox-color-ibm1-gold-30); }
+[data-ox-text-color="ibm1-gold-40"] { color: var(--ox-color-ibm1-gold-40); }
+[data-ox-text-color="ibm1-gold-50"] { color: var(--ox-color-ibm1-gold-50); }
+[data-ox-text-color="ibm1-gold-60"] { color: var(--ox-color-ibm1-gold-60); }
+[data-ox-text-color="ibm1-gold-70"] { color: var(--ox-color-ibm1-gold-70); }
+[data-ox-text-color="ibm1-gold-80"] { color: var(--ox-color-ibm1-gold-80); }
+[data-ox-text-color="ibm1-gold-90"] { color: var(--ox-color-ibm1-gold-90); }
 
 
 
@@ -361,6 +387,20 @@
 [data-ox-bg-color="ibm1-yellow-70"]  { background-color: var(--ox-color-ibm1-yellow-70); }
 [data-ox-bg-color="ibm1-yellow-80"]  { background-color: var(--ox-color-ibm1-yellow-80); }
 [data-ox-bg-color="ibm1-yellow-90"]  { background-color: var(--ox-color-ibm1-yellow-90); }
+
+
+
+/* ibm1 gold */
+[data-ox-bg-color="ibm1-gold-1"]   { background-color: var(--ox-color-ibm1-gold-1);  }
+[data-ox-bg-color="ibm1-gold-10"]  { background-color: var(--ox-color-ibm1-gold-10); }
+[data-ox-bg-color="ibm1-gold-20"]  { background-color: var(--ox-color-ibm1-gold-20); }
+[data-ox-bg-color="ibm1-gold-30"]  { background-color: var(--ox-color-ibm1-gold-30); }
+[data-ox-bg-color="ibm1-gold-40"]  { background-color: var(--ox-color-ibm1-gold-40); }
+[data-ox-bg-color="ibm1-gold-50"]  { background-color: var(--ox-color-ibm1-gold-50); }
+[data-ox-bg-color="ibm1-gold-60"]  { background-color: var(--ox-color-ibm1-gold-60); }
+[data-ox-bg-color="ibm1-gold-70"]  { background-color: var(--ox-color-ibm1-gold-70); }
+[data-ox-bg-color="ibm1-gold-80"]  { background-color: var(--ox-color-ibm1-gold-80); }
+[data-ox-bg-color="ibm1-gold-90"]  { background-color: var(--ox-color-ibm1-gold-90); }
 
 
 
