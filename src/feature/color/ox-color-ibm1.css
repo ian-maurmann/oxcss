@@ -266,6 +266,20 @@
 
 
 
+    /* IBM v1 - warm-gray */
+    --ox-color-ibm1-warm-gray-1:   #efe9e9;
+    --ox-color-ibm1-warm-gray-10:  #e2d5d5;
+    --ox-color-ibm1-warm-gray-20:  #ccbcbc;
+    --ox-color-ibm1-warm-gray-30:  #b4a1a1;
+    --ox-color-ibm1-warm-gray-40:  #9e9191;
+    --ox-color-ibm1-warm-gray-50:  #7d7373;
+    --ox-color-ibm1-warm-gray-60:  #5f5757;
+    --ox-color-ibm1-warm-gray-70:  #4b4545;
+    --ox-color-ibm1-warm-gray-80:  #373232;
+    --ox-color-ibm1-warm-gray-90:  #2a2626;
+
+
+
 
 
 
@@ -527,6 +541,21 @@
 [data-ox-text-color="ibm1-cool-gray-70"] { color: var(--ox-color-ibm1-cool-gray-70); }
 [data-ox-text-color="ibm1-cool-gray-80"] { color: var(--ox-color-ibm1-cool-gray-80); }
 [data-ox-text-color="ibm1-cool-gray-90"] { color: var(--ox-color-ibm1-cool-gray-90); }
+
+
+
+
+/* ibm1 warm-gray */
+[data-ox-text-color="ibm1-warm-gray-1"]  { color: var(--ox-color-ibm1-warm-gray-1);  }
+[data-ox-text-color="ibm1-warm-gray-10"] { color: var(--ox-color-ibm1-warm-gray-10); }
+[data-ox-text-color="ibm1-warm-gray-20"] { color: var(--ox-color-ibm1-warm-gray-20); }
+[data-ox-text-color="ibm1-warm-gray-30"] { color: var(--ox-color-ibm1-warm-gray-30); }
+[data-ox-text-color="ibm1-warm-gray-40"] { color: var(--ox-color-ibm1-warm-gray-40); }
+[data-ox-text-color="ibm1-warm-gray-50"] { color: var(--ox-color-ibm1-warm-gray-50); }
+[data-ox-text-color="ibm1-warm-gray-60"] { color: var(--ox-color-ibm1-warm-gray-60); }
+[data-ox-text-color="ibm1-warm-gray-70"] { color: var(--ox-color-ibm1-warm-gray-70); }
+[data-ox-text-color="ibm1-warm-gray-80"] { color: var(--ox-color-ibm1-warm-gray-80); }
+[data-ox-text-color="ibm1-warm-gray-90"] { color: var(--ox-color-ibm1-warm-gray-90); }
 
 
 
@@ -799,6 +828,20 @@
 [data-ox-bg-color="ibm1-cool-gray-70"]  { background-color: var(--ox-color-ibm1-cool-gray-70); }
 [data-ox-bg-color="ibm1-cool-gray-80"]  { background-color: var(--ox-color-ibm1-cool-gray-80); }
 [data-ox-bg-color="ibm1-cool-gray-90"]  { background-color: var(--ox-color-ibm1-cool-gray-90); }
+
+
+
+/* ibm1 warm-gray */
+[data-ox-bg-color="ibm1-warm-gray-1"]   { background-color: var(--ox-color-ibm1-warm-gray-1);  }
+[data-ox-bg-color="ibm1-warm-gray-10"]  { background-color: var(--ox-color-ibm1-warm-gray-10); }
+[data-ox-bg-color="ibm1-warm-gray-20"]  { background-color: var(--ox-color-ibm1-warm-gray-20); }
+[data-ox-bg-color="ibm1-warm-gray-30"]  { background-color: var(--ox-color-ibm1-warm-gray-30); }
+[data-ox-bg-color="ibm1-warm-gray-40"]  { background-color: var(--ox-color-ibm1-warm-gray-40); }
+[data-ox-bg-color="ibm1-warm-gray-50"]  { background-color: var(--ox-color-ibm1-warm-gray-50); }
+[data-ox-bg-color="ibm1-warm-gray-60"]  { background-color: var(--ox-color-ibm1-warm-gray-60); }
+[data-ox-bg-color="ibm1-warm-gray-70"]  { background-color: var(--ox-color-ibm1-warm-gray-70); }
+[data-ox-bg-color="ibm1-warm-gray-80"]  { background-color: var(--ox-color-ibm1-warm-gray-80); }
+[data-ox-bg-color="ibm1-warm-gray-90"]  { background-color: var(--ox-color-ibm1-warm-gray-90); }
 
 
 
