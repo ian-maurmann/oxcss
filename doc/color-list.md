@@ -855,7 +855,253 @@ Colors from Ant Design's base color palette
     ox-color-ant-gray-12
     ox-color-ant-gray-13
 
+Colors from IBM Design Language v1 color set
 
+
+    ox-color-ibm1-blue-1
+    ox-color-ibm1-blue-10
+    ox-color-ibm1-blue-20
+    ox-color-ibm1-blue-30
+    ox-color-ibm1-blue-40
+    ox-color-ibm1-blue-50
+    ox-color-ibm1-blue-60
+    ox-color-ibm1-blue-70
+    ox-color-ibm1-blue-80
+    ox-color-ibm1-blue-90
+    
+
+    ox-color-ibm1-ultramarine-1
+    ox-color-ibm1-ultramarine-10
+    ox-color-ibm1-ultramarine-20
+    ox-color-ibm1-ultramarine-30
+    ox-color-ibm1-ultramarine-40
+    ox-color-ibm1-ultramarine-50
+    ox-color-ibm1-ultramarine-60
+    ox-color-ibm1-ultramarine-70
+    ox-color-ibm1-ultramarine-80
+    ox-color-ibm1-ultramarine-90
+    
+
+    ox-color-ibm1-cerulean-1
+    ox-color-ibm1-cerulean-10
+    ox-color-ibm1-cerulean-20
+    ox-color-ibm1-cerulean-30
+    ox-color-ibm1-cerulean-40
+    ox-color-ibm1-cerulean-50
+    ox-color-ibm1-cerulean-60
+    ox-color-ibm1-cerulean-70
+    ox-color-ibm1-cerulean-80
+    ox-color-ibm1-cerulean-90
+    
+
+    ox-color-ibm1-aqua-1
+    ox-color-ibm1-aqua-10
+    ox-color-ibm1-aqua-20
+    ox-color-ibm1-aqua-30
+    ox-color-ibm1-aqua-40
+    ox-color-ibm1-aqua-50
+    ox-color-ibm1-aqua-60
+    ox-color-ibm1-aqua-70
+    ox-color-ibm1-aqua-80
+    ox-color-ibm1-aqua-90
+
+    
+    ox-color-ibm1-teal-1
+    ox-color-ibm1-teal-10
+    ox-color-ibm1-teal-20
+    ox-color-ibm1-teal-30
+    ox-color-ibm1-teal-40
+    ox-color-ibm1-teal-50
+    ox-color-ibm1-teal-60
+    ox-color-ibm1-teal-70
+    ox-color-ibm1-teal-80
+    ox-color-ibm1-teal-90
+    
+
+    ox-color-ibm1-green-1
+    ox-color-ibm1-green-10
+    ox-color-ibm1-green-20
+    ox-color-ibm1-green-30
+    ox-color-ibm1-green-40
+    ox-color-ibm1-green-50
+    ox-color-ibm1-green-60
+    ox-color-ibm1-green-70
+    ox-color-ibm1-green-80
+    ox-color-ibm1-green-90
+    
+
+    ox-color-ibm1-lime-1
+    ox-color-ibm1-lime-10
+    ox-color-ibm1-lime-20
+    ox-color-ibm1-lime-30
+    ox-color-ibm1-lime-40
+    ox-color-ibm1-lime-50
+    ox-color-ibm1-lime-60
+    ox-color-ibm1-lime-70
+    ox-color-ibm1-lime-80
+    ox-color-ibm1-lime-90
+    
+
+    ox-color-ibm1-yellow-1
+    ox-color-ibm1-yellow-10
+    ox-color-ibm1-yellow-20
+    ox-color-ibm1-yellow-30
+    ox-color-ibm1-yellow-40
+    ox-color-ibm1-yellow-50
+    ox-color-ibm1-yellow-60
+    ox-color-ibm1-yellow-70
+    ox-color-ibm1-yellow-80
+    ox-color-ibm1-yellow-90
+    
+
+    ox-color-ibm1-gold-1
+    ox-color-ibm1-gold-10
+    ox-color-ibm1-gold-20
+    ox-color-ibm1-gold-30
+    ox-color-ibm1-gold-40
+    ox-color-ibm1-gold-50
+    ox-color-ibm1-gold-60
+    ox-color-ibm1-gold-70
+    ox-color-ibm1-gold-80
+    ox-color-ibm1-gold-90
+    
+
+    ox-color-ibm1-orange-1
+    ox-color-ibm1-orange-10
+    ox-color-ibm1-orange-20
+    ox-color-ibm1-orange-30
+    ox-color-ibm1-orange-40
+    ox-color-ibm1-orange-50
+    ox-color-ibm1-orange-60
+    ox-color-ibm1-orange-70
+    ox-color-ibm1-orange-80
+    ox-color-ibm1-orange-90
+    
+
+    ox-color-ibm1-peach-1
+    ox-color-ibm1-peach-10
+    ox-color-ibm1-peach-20
+    ox-color-ibm1-peach-30
+    ox-color-ibm1-peach-40
+    ox-color-ibm1-peach-50
+    ox-color-ibm1-peach-60
+    ox-color-ibm1-peach-70
+    ox-color-ibm1-peach-80
+    ox-color-ibm1-peach-90
+    
+
+    ox-color-ibm1-red-1
+    ox-color-ibm1-red-10
+    ox-color-ibm1-red-20
+    ox-color-ibm1-red-30
+    ox-color-ibm1-red-40
+    ox-color-ibm1-red-50
+    ox-color-ibm1-red-60
+    ox-color-ibm1-red-70
+    ox-color-ibm1-red-80
+    ox-color-ibm1-red-90
+    
+
+    ox-color-ibm1-magenta-1
+    ox-color-ibm1-magenta-10
+    ox-color-ibm1-magenta-20
+    ox-color-ibm1-magenta-30
+    ox-color-ibm1-magenta-40
+    ox-color-ibm1-magenta-50
+    ox-color-ibm1-magenta-60
+    ox-color-ibm1-magenta-70
+    ox-color-ibm1-magenta-80
+    ox-color-ibm1-magenta-90
+    
+
+    ox-color-ibm1-purple-1
+    ox-color-ibm1-purple-10
+    ox-color-ibm1-purple-20
+    ox-color-ibm1-purple-30
+    ox-color-ibm1-purple-40
+    ox-color-ibm1-purple-50
+    ox-color-ibm1-purple-60
+    ox-color-ibm1-purple-70
+    ox-color-ibm1-purple-80
+    ox-color-ibm1-purple-90
+    
+
+    ox-color-ibm1-violet-1
+    ox-color-ibm1-violet-10
+    ox-color-ibm1-violet-20
+    ox-color-ibm1-violet-30
+    ox-color-ibm1-violet-40
+    ox-color-ibm1-violet-50
+    ox-color-ibm1-violet-60
+    ox-color-ibm1-violet-70
+    ox-color-ibm1-violet-80
+    ox-color-ibm1-violet-90
+
+    
+    ox-color-ibm1-indigo-1
+    ox-color-ibm1-indigo-10
+    ox-color-ibm1-indigo-20
+    ox-color-ibm1-indigo-30
+    ox-color-ibm1-indigo-40
+    ox-color-ibm1-indigo-50
+    ox-color-ibm1-indigo-60
+    ox-color-ibm1-indigo-70
+    ox-color-ibm1-indigo-80
+    ox-color-ibm1-indigo-90
+    
+
+    ox-color-ibm1-gray-1
+    ox-color-ibm1-gray-10
+    ox-color-ibm1-gray-20
+    ox-color-ibm1-gray-30
+    ox-color-ibm1-gray-40
+    ox-color-ibm1-gray-50
+    ox-color-ibm1-gray-60
+    ox-color-ibm1-gray-70
+    ox-color-ibm1-gray-80
+    ox-color-ibm1-gray-90
+    
+
+    ox-color-ibm1-cool-gray-1
+    ox-color-ibm1-cool-gray-10
+    ox-color-ibm1-cool-gray-20
+    ox-color-ibm1-cool-gray-30
+    ox-color-ibm1-cool-gray-40
+    ox-color-ibm1-cool-gray-50
+    ox-color-ibm1-cool-gray-60
+    ox-color-ibm1-cool-gray-70
+    ox-color-ibm1-cool-gray-80
+    ox-color-ibm1-cool-gray-90
+    
+
+    ox-color-ibm1-warm-gray-1
+    ox-color-ibm1-warm-gray-10
+    ox-color-ibm1-warm-gray-20
+    ox-color-ibm1-warm-gray-30
+    ox-color-ibm1-warm-gray-40
+    ox-color-ibm1-warm-gray-50
+    ox-color-ibm1-warm-gray-60
+    ox-color-ibm1-warm-gray-70
+    ox-color-ibm1-warm-gray-80
+    ox-color-ibm1-warm-gray-90
+
+    
+    ox-color-ibm1-neutral-white-1
+    ox-color-ibm1-neutral-white-2
+    ox-color-ibm1-neutral-white-3
+    ox-color-ibm1-neutral-white-4
+
+    
+    ox-color-ibm1-cool-white-1
+    ox-color-ibm1-cool-white-2
+    ox-color-ibm1-cool-white-3
+    ox-color-ibm1-cool-white-4
+    
+
+    ox-color-ibm1-warm-white-1
+    ox-color-ibm1-warm-white-2
+    ox-color-ibm1-warm-white-3
+    ox-color-ibm1-warm-white-4
 ___
 
 <---- Back to [ Documentation](./../doc/documentation-index.md)
