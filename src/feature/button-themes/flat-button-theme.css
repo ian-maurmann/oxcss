@@ -1,0 +1,31 @@
+
+/* Flat Button */
+[data-ox-button-theme="flat"] [data-ox-form-role="button"]{
+    display: inline-block;
+    vertical-align: text-top;
+    padding: 15px 1em 15px 1em;
+    border-style: hidden;
+    border-radius: 2em;
+    min-width: 15em;
+    background-color: #0958d9; /* Ant Blue 7 */
+
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+
+    cursor: pointer;
+
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.4s;
+
+    outline-color: #ffb000;
+    outline-width: thick;
+}
+[data-ox-button-theme="flat"] [data-ox-form-role="button"]:hover{
+    background-color: #1677ff; /* Ant Blue 6 */
+}
