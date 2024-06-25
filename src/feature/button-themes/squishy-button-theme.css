@@ -1,0 +1,40 @@
+
+/* Squishy Button */
+[data-ox-button-theme="squishy"] [data-ox-form-role="button"]{
+    display: inline-block;
+    vertical-align: text-top;
+    padding: 15px 1em 15px 1em;
+    box-shadow: inset 0px -4px 7px rgba(0,0,0,0.5), inset 0px 4px 7px rgba(255,255,255,0.5);
+    border-style: hidden;
+    border-radius: 2em;
+    min-width: 15em;
+    background-color: #0958d9; /* Ant Blue 7 */
+
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0px -1px 7px rgba(0,0,0,0.5), 0px 1px 7px rgba(255,255,255,0.5);
+
+    cursor: pointer;
+
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.4s;
+
+    outline-color: #ffb000;
+    outline-width: thick;
+}
+[data-ox-button-theme="squishy"] [data-ox-form-role="button"]:hover{
+    background-color: #1677ff; /* Ant Blue 6 */
+    transform: scale(1.00);
+}
+[data-ox-button-theme="squishy"] [data-ox-form-role="button"]:hover:active{
+    box-shadow: inset 0px -2px 5px rgba(0,0,0,0.5), inset 0px 2px 5px rgba(255,255,255,0.5);
+    transform: scale(1.01);
+    text-shadow: none;
+    padding: 16px 1em 14px 1em;
+}
