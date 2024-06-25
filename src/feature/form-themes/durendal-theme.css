@@ -100,7 +100,7 @@
 [data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"]  {
     display: inline-block;
 }
-[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"] .toggle-switch-tray {
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"] [data-ox-form-role="toggle-switch-tray"] {
     background: #fdfdfd;
     border-radius: 4em;
     border-style: hidden;
@@ -121,11 +121,11 @@
     -ms-user-select: none;
     user-select: none;
 }
-[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"][data-is-toggled="yes"] .toggle-switch-tray{
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"][data-is-toggled="yes"] [data-ox-form-role="toggle-switch-tray"] {
     background-color: #95de64; /* Ant Green 4 */
 }
 
-[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"] .toggle-switch-tray .toggle-switch-knob {
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"] [data-ox-form-role="toggle-switch-tray"] [data-ox-form-role="toggle-switch-knob"] {
 
     background: #ffffff;
     border-radius: 2em;
@@ -139,6 +139,6 @@
     transition-duration: 0.2s;
     vertical-align: middle;
 }
-[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"][data-is-toggled="yes"] .toggle-switch-tray .toggle-switch-knob {
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"][data-is-toggled="yes"] [data-ox-form-role="toggle-switch-tray"] [data-ox-form-role="toggle-switch-knob"] {
     margin-left: 2.5em;
 }
