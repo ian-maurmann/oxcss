@@ -1,0 +1,144 @@
+[data-ox-form-label-align="0"] [data-ox-field] label{ min-width: 0; }
+[data-ox-form-label-align="1"] [data-ox-field] label{ min-width: 1em; }
+[data-ox-form-label-align="2"] [data-ox-field] label{ min-width: 2em; }
+[data-ox-form-label-align="3"] [data-ox-field] label{ min-width: 3em; }
+[data-ox-form-label-align="4"] [data-ox-field] label{ min-width: 4em; }
+[data-ox-form-label-align="5"] [data-ox-field] label{ min-width: 5em; }
+[data-ox-form-label-align="6"] [data-ox-field] label{ min-width: 6em; }
+[data-ox-form-label-align="7"] [data-ox-field] label{ min-width: 7em; }
+[data-ox-form-label-align="8"] [data-ox-field] label{ min-width: 8em; }
+[data-ox-form-label-align="9"] [data-ox-field] label{ min-width: 9em; }
+
+[data-ox-form-label-align="10"] [data-ox-field] label{ min-width: 10em; }
+[data-ox-form-label-align="11"] [data-ox-field] label{ min-width: 11em; }
+[data-ox-form-label-align="12"] [data-ox-field] label{ min-width: 12em; }
+[data-ox-form-label-align="13"] [data-ox-field] label{ min-width: 13em; }
+[data-ox-form-label-align="14"] [data-ox-field] label{ min-width: 14em; }
+[data-ox-form-label-align="15"] [data-ox-field] label{ min-width: 15em; }
+[data-ox-form-label-align="16"] [data-ox-field] label{ min-width: 16em; }
+[data-ox-form-label-align="17"] [data-ox-field] label{ min-width: 17em; }
+[data-ox-form-label-align="18"] [data-ox-field] label{ min-width: 18em; }
+[data-ox-form-label-align="19"] [data-ox-field] label{ min-width: 19em; }
+
+[data-ox-form-label-align="20"] [data-ox-field] label{ min-width: 20em; }
+[data-ox-form-label-align="21"] [data-ox-field] label{ min-width: 21em; }
+[data-ox-form-label-align="22"] [data-ox-field] label{ min-width: 22em; }
+[data-ox-form-label-align="23"] [data-ox-field] label{ min-width: 23em; }
+[data-ox-form-label-align="24"] [data-ox-field] label{ min-width: 24em; }
+[data-ox-form-label-align="25"] [data-ox-field] label{ min-width: 25em; }
+[data-ox-form-label-align="26"] [data-ox-field] label{ min-width: 26em; }
+[data-ox-form-label-align="27"] [data-ox-field] label{ min-width: 27em; }
+[data-ox-form-label-align="28"] [data-ox-field] label{ min-width: 28em; }
+[data-ox-form-label-align="29"] [data-ox-field] label{ min-width: 29em; }
+
+[data-ox-form-label-align="30"] [data-ox-field] label{ min-width: 30em; }
+[data-ox-form-label-align="31"] [data-ox-field] label{ min-width: 31em; }
+[data-ox-form-label-align="32"] [data-ox-field] label{ min-width: 32em; }
+[data-ox-form-label-align="33"] [data-ox-field] label{ min-width: 33em; }
+[data-ox-form-label-align="34"] [data-ox-field] label{ min-width: 34em; }
+[data-ox-form-label-align="35"] [data-ox-field] label{ min-width: 35em; }
+[data-ox-form-label-align="36"] [data-ox-field] label{ min-width: 36em; }
+[data-ox-form-label-align="37"] [data-ox-field] label{ min-width: 37em; }
+[data-ox-form-label-align="38"] [data-ox-field] label{ min-width: 38em; }
+[data-ox-form-label-align="39"] [data-ox-field] label{ min-width: 39em; }
+
+
+
+/* Field */
+[data-ox-form-theme="durendal"] [data-ox-field-display="row"]{
+    margin: 1em;
+}
+
+
+
+/* Label */
+[data-ox-form-theme="durendal"] [data-ox-field] label{
+    color: #212121; /* MD Gray 900 */
+    display: inline-block;
+    transition-duration: 0.4s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+
+}
+[data-ox-form-theme="durendal"] [data-ox-field][data-ox-field-type="textarea"] label{
+    padding-top: 7px;
+    vertical-align: text-top;
+}
+[data-ox-form-theme="durendal"] [data-ox-field] label:hover{
+    color: #1677ff; /* Ant Blue 6 */
+}
+
+
+/* Field inputs */
+[data-ox-form-theme="durendal"] [data-ox-field] input[type="text"],
+[data-ox-form-theme="durendal"] [data-ox-field] input[type="time"],
+[data-ox-form-theme="durendal"] [data-ox-field] input[type="date"],
+[data-ox-form-theme="durendal"] [data-ox-field] input[type="datetime-local"],
+[data-ox-form-theme="durendal"] [data-ox-field] textarea{
+    background: #fdfdfd;
+    border-radius: 7px;
+    border-style: hidden;
+    box-shadow: inset 0px 2px 7px rgba(0,0,0,0.5);
+    font-family: 'IBM Plex Sans', 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial ,sans-serif;
+    font-size: 11pt;
+    min-width: 38em;
+    outline-color: #015fcc; /* Chrome tab-focus color*/
+    padding: 7px 1em;
+}
+[data-ox-form-theme="durendal"] [data-ox-field] input[type="text"]{
+    display: inline-block;
+    vertical-align: baseline;
+}
+[data-ox-form-theme="durendal"] [data-ox-field] textarea {
+    background: radial-gradient(circle at 100% 100%, rgba(200,200,200,1) 14px, #fdfdfd 15px);
+    border-bottom-right-radius: 3px;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"]  {
+    display: inline-block;
+}
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"] .toggle-switch-tray {
+    background: #fdfdfd;
+    border-radius: 4em;
+    border-style: hidden;
+    box-shadow: inset 0 2px 7px rgba(0,0,0,0.5);
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'IBM Plex Sans', 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial ,sans-serif;
+    font-size: 11pt;
+    outline-color: #015fcc; /* Chrome tab-focus color*/
+    padding: 5px;
+    text-align: left;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.4s;
+    width: 4em;
+
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"][data-is-toggled="yes"] .toggle-switch-tray{
+    background-color: #95de64; /* Ant Green 4 */
+}
+
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"] .toggle-switch-tray .toggle-switch-knob {
+
+    background: #ffffff;
+    border-radius: 2em;
+    border-style: hidden;
+    box-shadow: 0 2px 7px rgba(0,0,0,0.5);
+    display: inline-block;
+    margin-left: 0;
+    padding: 11px;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.2s;
+    vertical-align: middle;
+}
+[data-ox-form-theme="durendal"] [data-ox-form-role="toggle-switch"][data-is-toggled="yes"] .toggle-switch-tray .toggle-switch-knob {
+    margin-left: 2.5em;
+}
