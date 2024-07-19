@@ -1,23 +1,18 @@
 /**
- * @file ox.js for OxCSS
+ * @file Ox Event Listener for OxCSS
  * @author Ian Maurmann
- * @copyright (c) 2016-2023 - Ian Maurmann
+ * @copyright (c) 2016-2024 - Ian Maurmann
  * @license MIT
  */
 
 
-
-// --- ox.dev.js -----------------
 
 // Check if Ox object exists
 if( typeof Ox === 'undefined' || Ox === null || Ox === false){
     var Ox = {};
 }
 
-
-
-
-// --- ox-event-listener.dev.js -----------------
+// __________ __________ __________ __________ __________
 
 // Check if Ox Event Listener exists
 if( typeof Ox.Event === 'undefined' || Ox.Event === null || Ox.Event === false){
@@ -52,3 +47,5 @@ Ox.Event.delegate = function(selector, event_type_name, handler){
  * @param {object} element - jQuery element object
  * @param {event} event - Event that was triggered
  */
+
+// __________ __________ __________ __________ __________
