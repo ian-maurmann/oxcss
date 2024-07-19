@@ -1,7 +1,7 @@
 /**
  * @file Ox Event Listener for OxCSS
  * @author Ian Maurmann
- * @copyright (c) 2016-2023 - Ian Maurmann
+ * @copyright (c) 2016-2024 - Ian Maurmann
  * @license MIT
  */
 
